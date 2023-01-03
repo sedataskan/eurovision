@@ -1,11 +1,11 @@
-"vote","year","city","jury-country","id","name","gender","birth","profession"
-voting-detailssecond-semi-final,2016,Stockholm,Poland,B,Monika Kuszynska,female,14.01.1980  ,artist - singer
-voting-detailsgrand-final,2016,Stockholm,Poland,B,Monika Kuszynska,female,14.01.1980  ,artist - singer
-voting-detailsfirst-semi-final,2016,Stockholm,Estonia,C,Maiken,female,4.03.1977  ,professional singer
-voting-detailsgrand-final,2016,Stockholm,Estonia,C,Maiken,female,4.03.1977  ,professional singer
+"vote,"year","city","jury-country","id","name","gender","birth","profession"
+voting-detailssecond-semi-final,2016,Stockholm,Poland,B,Monika Kuszynska,female,14.01.1980  ,artist - Singer
+voting-detailsgrand-final,2016,Stockholm,Poland,B,Monika Kuszynska,female,14.01.1980  ,artist - Singer
+voting-detailsfirst-semi-final,2016,Stockholm,Estonia,C,Maiken,female,4.03.1977  ,professional Singer
+voting-detailsgrand-final,2016,Stockholm,Estonia,C,Maiken,female,4.03.1977  ,professional Singer
 voting-detailsfirst-semi-final,2016,Stockholm,Sweden,B,Anderz Wrethov,male,11.04.1979  ,songwriter
-voting-detailssecond-semi-final,2016,Stockholm,Bulgaria,C,Joanna Nickolova Dragneva,female,23.05.1986  ,pop singer
-voting-detailsgrand-final,2016,Stockholm,Bulgaria,C,Joanna Nickolova Dragneva,female,23.05.1986  ,pop singer
+voting-detailssecond-semi-final,2016,Stockholm,Bulgaria,C,Joanna Nickolova Dragneva,female,23.05.1986  ,pop Singer
+voting-detailsgrand-final,2016,Stockholm,Bulgaria,C,Joanna Nickolova Dragneva,female,23.05.1986  ,pop Singer
 voting-detailsgrand-final,2016,Stockholm,Sweden,B,Anderz Wrethov,male,11.04.1979  ,songwriter
 voting-detailssecond-semi-final,2016,Stockholm,Latvia,B,Aigars Dinsbergs,male,28.02.1969  ,producer
 voting-detailsgrand-final,2016,Stockholm,Latvia,B,Aigars Dinsbergs,male,28.02.1969  ,producer
@@ -14,22 +14,22 @@ voting-detailsgrand-final,2016,Stockholm,Austria,E,Peter Pansky,male,30.04.1967 
 voting-detailsfirst-semi-final,2016,Stockholm,Montenegro,C,Srdjan Bulatovic,male,13.04.1972  ,doctor of classical music
 voting-detailsgrand-final,2016,Stockholm,Montenegro,C,Srdjan Bulatovic,male,13.04.1972  ,doctor of classical music
 voting-detailsfirst-semi-final,2016,Stockholm,Armenia,E,Miqayel Voskanyan,male,26.08.1986  ,Musician
-voting-detailsfirst-semi-final,2016,Stockholm,Hungary,D,Frenreisz Kï¿½roly,male,8.11.1946  ,musician
-voting-detailsfirst-semi-final,2016,Stockholm,Russia,A,Denis Maydanov,male,17.02.1976  ,singer
-voting-detailssecond-semi-final,2016,Stockholm,Belarus,D,Teo,male,24.01.1983  ,singer
+voting-detailsfirst-semi-final,2016,Stockholm,Hungary,D,Frenreisz Kï¿½roly,male,8.11.1946  ,Musician
+voting-detailsfirst-semi-final,2016,Stockholm,Russia,A,Denis Maydanov,male,17.02.1976  ,Singer
+voting-detailssecond-semi-final,2016,Stockholm,Belarus,D,Teo,male,24.01.1983  ,Singer
 voting-detailssecond-semi-final,2016,Stockholm,Bulgaria,B,Angel Angelov Zaberski,male,17.10.1969  ,conductor
-voting-detailssecond-semi-final,2016,Stockholm,Latvia,D,Antra Lapsa,female,4.06.1991  ,singer
-voting-detailssecond-semi-final,2016,Stockholm,Lithuania,A,Vidas Bareikis,male,21.03.1986  ,singer
+voting-detailssecond-semi-final,2016,Stockholm,Latvia,D,Antra Lapsa,female,4.06.1991  ,Singer
+voting-detailssecond-semi-final,2016,Stockholm,Lithuania,A,Vidas Bareikis,male,21.03.1986  ,Singer
 voting-detailssecond-semi-final,2016,Stockholm,Slovenia,B,Tadej Kosir,male,2.10.1983  ,guitar player
 voting-detailssecond-semi-final,2016,Stockholm,Slovenia,D,Clemens,male,31.12.1992  ,Singer
 voting-detailssecond-semi-final,2016,Stockholm,Ukraine,C,Andre France,male,22.06.1969  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Armenia,E,Miqayel Voskanyan,male,26.08.1986  ,Musician
-voting-detailsgrand-final,2016,Stockholm,Belarus,D,Teo,male,24.01.1983  ,singer
+voting-detailsgrand-final,2016,Stockholm,Belarus,D,Teo,male,24.01.1983  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Bulgaria,B,Angel Angelov Zaberski,male,17.10.1969  ,conductor
-voting-detailsgrand-final,2016,Stockholm,Hungary,D,Frenreisz Kï¿½roly,male,8.11.1946  ,musician
-voting-detailsgrand-final,2016,Stockholm,Latvia,D,Antra Lapsa,female,4.06.1991  ,singer
-voting-detailsgrand-final,2016,Stockholm,Lithuania,A,Vidas Bareikis,male,21.03.1986  ,singer
-voting-detailsgrand-final,2016,Stockholm,Russia,A,Denis Maydanov,male,17.02.1976  ,singer
+voting-detailsgrand-final,2016,Stockholm,Hungary,D,Frenreisz Kï¿½roly,male,8.11.1946  ,Musician
+voting-detailsgrand-final,2016,Stockholm,Latvia,D,Antra Lapsa,female,4.06.1991  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Lithuania,A,Vidas Bareikis,male,21.03.1986  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Russia,A,Denis Maydanov,male,17.02.1976  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Slovenia,B,Tadej Kosir,male,2.10.1983  ,guitar player
 voting-detailsgrand-final,2016,Stockholm,Slovenia,D,Clemens,male,31.12.1992  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Ukraine,C,Andre France,male,22.06.1969  ,Singer
@@ -38,13 +38,13 @@ voting-detailsgrand-final,2016,Stockholm,Serbia,C,Mari Mari,female,17.09.1978  ,
 voting-detailsfirst-semi-final,2016,Stockholm,Hungary,A,Lotfi Begi,male,14.02.1982  ,musical producer
 voting-detailsgrand-final,2016,Stockholm,Hungary,A,Lotfi Begi,male,14.02.1982  ,musical producer
 voting-detailsfirst-semi-final,2016,Stockholm,Czech-republic,C,Miloï¿½ Skalka,male,26.08.1947  ,Radio presenter
-voting-detailssecond-semi-final,2016,Stockholm,Latvia,C,Iluta Alsberga,female,13.03.1987  ,singer
+voting-detailssecond-semi-final,2016,Stockholm,Latvia,C,Iluta Alsberga,female,13.03.1987  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Czech-republic,C,Miloï¿½ Skalka,male,26.08.1947  ,Radio presenter
-voting-detailsgrand-final,2016,Stockholm,Latvia,C,Iluta Alsberga,female,13.03.1987  ,singer
-voting-detailsfirst-semi-final,2016,Stockholm,Montenegro,B,Dejan Bozovic,male,27.01.1965  ,composer
-voting-detailssecond-semi-final,2016,Stockholm,Slovenia,E,Eva Hren,female,12.10.1974  ,singer
-voting-detailsgrand-final,2016,Stockholm,Montenegro,B,Dejan Bozovic,male,27.01.1965  ,composer
-voting-detailsgrand-final,2016,Stockholm,Slovenia,E,Eva Hren,female,12.10.1974  ,singer
+voting-detailsgrand-final,2016,Stockholm,Latvia,C,Iluta Alsberga,female,13.03.1987  ,Singer
+voting-detailsfirst-semi-final,2016,Stockholm,Montenegro,B,Dejan Bozovic,male,27.01.1965  ,Composer
+voting-detailssecond-semi-final,2016,Stockholm,Slovenia,E,Eva Hren,female,12.10.1974  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Montenegro,B,Dejan Bozovic,male,27.01.1965  ,Composer
+voting-detailsgrand-final,2016,Stockholm,Slovenia,E,Eva Hren,female,12.10.1974  ,Singer
 voting-detailsfirst-semi-final,2016,Stockholm,San-marino,A,Leonardo Bollini,male,27.05.1982  ,Musician
 voting-detailsgrand-final,2016,Stockholm,San-marino,A,Leonardo Bollini,male,27.05.1982  ,Musician
 voting-detailssecond-semi-final,2016,Stockholm,Ukraine,A,Maria Burmaka,female,16.06.1970  ,Singer
@@ -65,10 +65,10 @@ voting-detailsgrand-final,2016,Stockholm,Czech-republic,B,Petr Krï¿½l,male,10.10
 voting-detailsgrand-final,2016,Stockholm,Latvia,A,Andrejs Volkovs,male,14.02.1971  ,Latvian Radio 4
 voting-detailssecond-semi-final,2016,Stockholm,Norway,D,Nicholas Emmanuel Carlie,male,22.06.1977  ,vocalist
 voting-detailsgrand-final,2016,Stockholm,Norway,D,Nicholas Emmanuel Carlie,male,22.06.1977  ,vocalist
-voting-detailsfirst-semi-final,2016,Stockholm,Bosnia-herzegovina,B,Djordje Jovancic,male,9.08.1992  ,composer
-voting-detailssecond-semi-final,2016,Stockholm,Lithuania,B,Egle Nepaite Abaraviciene,female,23.01.1967  ,singer
-voting-detailsgrand-final,2016,Stockholm,Bosnia-herzegovina,B,Djordje Jovancic,male,9.08.1992  ,composer
-voting-detailsgrand-final,2016,Stockholm,Lithuania,B,Egle Nepaite Abaraviciene,female,23.01.1967  ,singer
+voting-detailsfirst-semi-final,2016,Stockholm,Bosnia-herzegovina,B,Djordje Jovancic,male,9.08.1992  ,Composer
+voting-detailssecond-semi-final,2016,Stockholm,Lithuania,B,Egle Nepaite Abaraviciene,female,23.01.1967  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Bosnia-herzegovina,B,Djordje Jovancic,male,9.08.1992  ,Composer
+voting-detailsgrand-final,2016,Stockholm,Lithuania,B,Egle Nepaite Abaraviciene,female,23.01.1967  ,Singer
 voting-detailsfirst-semi-final,2016,Stockholm,Russia,D,Oscar Kuchera,male,11.08.1974  ,actor
 voting-detailsgrand-final,2016,Stockholm,Russia,D,Oscar Kuchera,male,11.08.1974  ,actor
 voting-detailssecond-semi-final,2016,Stockholm,Bulgaria,E,Stoyan Velev Yankoulov,male,10.09.1966  ,artist
@@ -79,44 +79,44 @@ voting-detailssecond-semi-final,2016,Stockholm,Lithuania,C,Nomeda Kazlaus,female
 voting-detailsgrand-final,2016,Stockholm,Lithuania,C,Nomeda Kazlaus,female,13.02.1974  ,Pianist
 voting-detailssecond-semi-final,2016,Stockholm,Israel,E,Tsach Zimroni,male,9.08.1976  ,DJ
 voting-detailsgrand-final,2016,Stockholm,Israel,E,Tsach Zimroni,male,9.08.1976  ,DJ
-voting-detailsfirst-semi-final,2016,Stockholm,Hungary,C,Rakonczai Viktor,male,16.10.1976  ,composer
-voting-detailsgrand-final,2016,Stockholm,Hungary,C,Rakonczai Viktor,male,16.10.1976  ,composer
+voting-detailsfirst-semi-final,2016,Stockholm,Hungary,C,Rakonczai Viktor,male,16.10.1976  ,Composer
+voting-detailsgrand-final,2016,Stockholm,Hungary,C,Rakonczai Viktor,male,16.10.1976  ,Composer
 voting-detailsfirst-semi-final,2016,Stockholm,Czech-republic,A,Pavel Andel,male,28.03.1966  ,editor
 voting-detailssecond-semi-final,2016,Stockholm,Latvia,E,DJ Rudd,male,6.01.1984  ,DJ
-voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,A,Prince,male,24.11.1974  ,composer
+voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,A,Prince,male,24.11.1974  ,Composer
 voting-detailsgrand-final,2016,Stockholm,Czech-republic,A,Pavel Andel,male,28.03.1966  ,editor
 voting-detailsgrand-final,2016,Stockholm,Latvia,E,DJ Rudd,male,6.01.1984  ,DJ
-voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,A,Prince,male,24.11.1974  ,composer
+voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,A,Prince,male,24.11.1974  ,Composer
 voting-detailsfirst-semi-final,2016,Stockholm,Czech-republic,D,Marcela Kocandrlovï¿½,female,29.09.1966  ,artist & local repertoire product manager
 voting-detailsgrand-final,2016,Stockholm,Czech-republic,D,Marcela Kocandrlovï¿½,female,29.09.1966  ,artist & local repertoire product manager
 voting-detailsfirst-semi-final,2016,Stockholm,Moldova,A,Iurie Mahovici,male,18.07.1962  ,Composer
 voting-detailsgrand-final,2016,Stockholm,Moldova,A,Iurie Mahovici,male,18.07.1962  ,Composer
-voting-detailsfirst-semi-final,2016,Stockholm,Montenegro,A,Andrea,female,17.06.1985  ,singer
-voting-detailsgrand-final,2016,Stockholm,Montenegro,A,Andrea,female,17.06.1985  ,singer
+voting-detailsfirst-semi-final,2016,Stockholm,Montenegro,A,Andrea,female,17.06.1985  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Montenegro,A,Andrea,female,17.06.1985  ,Singer
 voting-detailssecond-semi-final,2016,Stockholm,Poland,C,Jacek Kecik,male,11.01.1958  ,director
 voting-detailsgrand-final,2016,Stockholm,Poland,C,Jacek Kecik,male,11.01.1958  ,director
 voting-detailssecond-semi-final,2016,Stockholm,Bulgaria,A,Michail Ivanov Belchev,male,13.08.1946  ,poet
 voting-detailssecond-semi-final,2016,Stockholm,Denmark,A,Jimmy Jï¿½rgensen,male,11.07.1964  ,Musician
-voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,B,Vanco Dimitrov,male,10.11.1945  ,composer
+voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,B,Vanco Dimitrov,male,10.11.1945  ,Composer
 voting-detailsgrand-final,2016,Stockholm,Bulgaria,A,Michail Ivanov Belchev,male,13.08.1946  ,poet
 voting-detailsgrand-final,2016,Stockholm,Denmark,A,Jimmy Jï¿½rgensen,male,11.07.1964  ,Musician
-voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,B,Vanco Dimitrov,male,10.11.1945  ,composer
+voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,B,Vanco Dimitrov,male,10.11.1945  ,Composer
 voting-detailsfirst-semi-final,2016,Stockholm,Armenia,A,Hayko,male,25.08.1973  ,Musician
 voting-detailsfirst-semi-final,2016,Stockholm,Armenia,B,Naira Gurjinyan,female,24.09.1961  ,Musician
 voting-detailsfirst-semi-final,2016,Stockholm,Armenia,C,Erik,male,5.06.1988  ,Singer
-voting-detailsfirst-semi-final,2016,Stockholm,Austria,A,his pseudo Sankil Jones,male,17.10.1980  ,singer
+voting-detailsfirst-semi-final,2016,Stockholm,Austria,A,his pseudo Sankil Jones,male,17.10.1980  ,Singer
 voting-detailsfirst-semi-final,2016,Stockholm,Malta,A,Peter Borg,male,17.10.1988  ,Guitarist
-voting-detailssecond-semi-final,2016,Stockholm,Bulgaria,D,Teodora Milcheva Katzarova,female,29.03.1978  ,singer
+voting-detailssecond-semi-final,2016,Stockholm,Bulgaria,D,Teodora Milcheva Katzarova,female,29.03.1978  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Armenia,A,Hayko,male,25.08.1973  ,Musician
 voting-detailsgrand-final,2016,Stockholm,Armenia,B,Naira Gurjinyan,female,24.09.1961  ,Musician
 voting-detailsgrand-final,2016,Stockholm,Armenia,C,Erik,male,5.06.1988  ,Singer
-voting-detailsgrand-final,2016,Stockholm,Austria,A,his pseudo Sankil Jones,male,17.10.1980  ,singer
-voting-detailsgrand-final,2016,Stockholm,Bulgaria,D,Teodora Milcheva Katzarova,female,29.03.1978  ,singer
+voting-detailsgrand-final,2016,Stockholm,Austria,A,his pseudo Sankil Jones,male,17.10.1980  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Bulgaria,D,Teodora Milcheva Katzarova,female,29.03.1978  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Malta,A,Peter Borg,male,17.10.1988  ,Guitarist
 voting-detailssecond-semi-final,2016,Stockholm,Denmark,C,Kaya Brï¿½el,female,30.08.1972  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Denmark,C,Kaya Brï¿½el,female,30.08.1972  ,Singer
-voting-detailsfirst-semi-final,2016,Stockholm,Montenegro,D,Zeko,male,24.04.1967  ,composer
-voting-detailsgrand-final,2016,Stockholm,Montenegro,D,Zeko,male,24.04.1967  ,composer
+voting-detailsfirst-semi-final,2016,Stockholm,Montenegro,D,Zeko,male,24.04.1967  ,Composer
+voting-detailsgrand-final,2016,Stockholm,Montenegro,D,Zeko,male,24.04.1967  ,Composer
 voting-detailsfirst-semi-final,2016,Stockholm,San-marino,B,Gea Gasperoni,female,30.08.1988  ,Pianist
 voting-detailsfirst-semi-final,2016,Stockholm,San-marino,C,Monica Moroni,female,14.02.1962  ,Flute soloist
 voting-detailsgrand-final,2016,Stockholm,San-marino,B,Gea Gasperoni,female,30.08.1988  ,Pianist
@@ -134,32 +134,32 @@ voting-detailsfirst-semi-final,2016,Stockholm,Austria,B,Dorothee Freiberger,fema
 voting-detailsfirst-semi-final,2016,Stockholm,Austria,C,Franz Pleterski,male,12.01.1976  ,Marketing Director Austria
 voting-detailsfirst-semi-final,2016,Stockholm,Austria,D,Hille,male,22.11.1979  ,Musician/Producer
 voting-detailsfirst-semi-final,2016,Stockholm,Azerbaijan,A,Gulchohra Shafiyeva,female,17.03.1949  ,director
-voting-detailsfirst-semi-final,2016,Stockholm,Azerbaijan,B,Brilliant Dadashova,female,15.09.1965  ,pop singer
+voting-detailsfirst-semi-final,2016,Stockholm,Azerbaijan,B,Brilliant Dadashova,female,15.09.1965  ,pop Singer
 voting-detailsfirst-semi-final,2016,Stockholm,Azerbaijan,C,Ayyub Guliyev,male,26.07.1984  ,conductor
 voting-detailsfirst-semi-final,2016,Stockholm,Azerbaijan,E,Tarane Muradova,female,6.08.1965  ,ballet-mistress
-voting-detailsfirst-semi-final,2016,Stockholm,Bosnia-herzegovina,A,Alma Cardï¿½ic,female,10.03.1968  ,singer
-voting-detailsfirst-semi-final,2016,Stockholm,Bosnia-herzegovina,C,Elvir Hadï¿½ijamakovic,male,2.11.1972  ,editor and singer
+voting-detailsfirst-semi-final,2016,Stockholm,Bosnia-herzegovina,A,Alma Cardï¿½ic,female,10.03.1968  ,Singer
+voting-detailsfirst-semi-final,2016,Stockholm,Bosnia-herzegovina,C,Elvir Hadï¿½ijamakovic,male,2.11.1972  ,editor and Singer
 voting-detailsfirst-semi-final,2016,Stockholm,Bosnia-herzegovina,D,Amir Misirlic,male,30.12.1963  ,music editor
-voting-detailsfirst-semi-final,2016,Stockholm,Bosnia-herzegovina,E,Ana Babic,female,22.07.1958  ,opera singer
-voting-detailsfirst-semi-final,2016,Stockholm,Croatia,A,Boris ï¿½urdevic,male,15.03.1973  ,music producer
-voting-detailsfirst-semi-final,2016,Stockholm,Croatia,B,Kim Verson,female,2.09.1993  ,singer
-voting-detailsfirst-semi-final,2016,Stockholm,Croatia,C,Pamela Ramljak,female,24.12.1979  ,singer
-voting-detailsfirst-semi-final,2016,Stockholm,Croatia,D,Damir Kedï¿½o,female,24.05.1987  ,singer
-voting-detailsfirst-semi-final,2016,Stockholm,Croatia,E,Duï¿½ko Mandic,male,4.06.1958  ,music producer
+voting-detailsfirst-semi-final,2016,Stockholm,Bosnia-herzegovina,E,Ana Babic,female,22.07.1958  ,opera Singer
+voting-detailsfirst-semi-final,2016,Stockholm,Croatia,A,Boris ï¿½urdevic,male,15.03.1973  ,Music Producer
+voting-detailsfirst-semi-final,2016,Stockholm,Croatia,B,Kim Verson,female,2.09.1993  ,Singer
+voting-detailsfirst-semi-final,2016,Stockholm,Croatia,C,Pamela Ramljak,female,24.12.1979  ,Singer
+voting-detailsfirst-semi-final,2016,Stockholm,Croatia,D,Damir Kedï¿½o,female,24.05.1987  ,Singer
+voting-detailsfirst-semi-final,2016,Stockholm,Croatia,E,Duï¿½ko Mandic,male,4.06.1958  ,Music Producer
 voting-detailsfirst-semi-final,2016,Stockholm,Cyprus,A,Silia Ioannidou,female,22.11.1972  ,Journalist/Radio producer
 voting-detailsfirst-semi-final,2016,Stockholm,Cyprus,B,Nicos Evangelou,male,23.07.1975  ,Music Teacher / Pianist
 voting-detailsfirst-semi-final,2016,Stockholm,Cyprus,C,Poly Roussou,female,24.06.1968  ,pianist
 voting-detailsfirst-semi-final,2016,Stockholm,Cyprus,D,Christina Tselepou,female,21.07.1986  ,Vocal Music Coach/Live Performance Singer
 voting-detailsfirst-semi-final,2016,Stockholm,Cyprus,E,Kypros Karaviotis,male,28.05.1977  ,DJ/Radio Producer
 voting-detailsfirst-semi-final,2016,Stockholm,Czech-republic,E,Markï¿½ta Neï¿½lehovï¿½,female,9.08.1969  ,Director
-voting-detailsfirst-semi-final,2016,Stockholm,Estonia,A,Els Himma,female,23.01.1940  ,singer
-voting-detailsfirst-semi-final,2016,Stockholm,Estonia,B,Priit Pajusaar,male,6.04.1964  ,composer
+voting-detailsfirst-semi-final,2016,Stockholm,Estonia,A,Els Himma,female,23.01.1940  ,Singer
+voting-detailsfirst-semi-final,2016,Stockholm,Estonia,B,Priit Pajusaar,male,6.04.1964  ,Composer
 voting-detailsfirst-semi-final,2016,Stockholm,Estonia,D,Hanna Parman,female,12.12.1992  ,artist and teacher
-voting-detailsfirst-semi-final,2016,Stockholm,Estonia,E,Taavi Paomets,male,23.07.1988  ,an independant musician and music producer
+voting-detailsfirst-semi-final,2016,Stockholm,Estonia,E,Taavi Paomets,male,23.07.1988  ,an independant Musician and Music Producer
 voting-detailsfirst-semi-final,2016,Stockholm,Finland,A,Hanna Kinnunen,female,8.07.1980  ,Radio host and producer
-voting-detailsfirst-semi-final,2016,Stockholm,Finland,B,Heimo Hatakka,male,9.05.1965  ,Lyricist-journalist
+voting-detailsfirst-semi-final,2016,Stockholm,Finland,B,Heimo Hatakka,male,9.05.1965  ,Lyricist-Journalist
 voting-detailsfirst-semi-final,2016,Stockholm,Finland,C,Jori Allan Petteri Sjï¿½roos,male,24.09.1976  ,Producer/Composer/Artist
-voting-detailsfirst-semi-final,2016,Stockholm,Finland,E,Jurek,male,15.11.1986  ,Music producer
+voting-detailsfirst-semi-final,2016,Stockholm,Finland,E,Jurek,male,15.11.1986  ,Music Producer
 voting-detailsfirst-semi-final,2016,Stockholm,France,A,Pat Angeli,male,3.05.1961  ,Radio Journalist / Music Specialist
 voting-detailsfirst-semi-final,2016,Stockholm,France,B,Sarah Caillibot,female,14.06.1984  ,Artist / Singer
 voting-detailsfirst-semi-final,2016,Stockholm,France,C,Dumï¿½,male,24.11.1981  ,Artist
@@ -170,13 +170,13 @@ voting-detailsfirst-semi-final,2016,Stockholm,Greece,B,Christiana Stamatelou,fem
 voting-detailsfirst-semi-final,2016,Stockholm,Greece,C,Georgios Segredakis,male,12.01.1975  ,Curator stage presence - Costume designer
 voting-detailsfirst-semi-final,2016,Stockholm,Greece,D,Adam Tsarouchis,male,3.07.1977  ,Singer
 voting-detailsfirst-semi-final,2016,Stockholm,Greece,E,Lambros Konstantaras,male,6.08.1979  ,Radio Producer/Journalist
-voting-detailsfirst-semi-final,2016,Stockholm,Hungary,B,Wolf Kati,female,24.09.1974  ,singer
+voting-detailsfirst-semi-final,2016,Stockholm,Hungary,B,Wolf Kati,female,24.09.1974  ,Singer
 voting-detailsfirst-semi-final,2016,Stockholm,Hungary,E,Novï¿½k Pï¿½ter,male,18.07.1970  ,performer
-voting-detailsfirst-semi-final,2016,Stockholm,Iceland,A,Maggi Kjartans,male,6.07.1951  ,Musician/composer
+voting-detailsfirst-semi-final,2016,Stockholm,Iceland,A,Maggi Kjartans,male,6.07.1951  ,Musician/Composer
 voting-detailsfirst-semi-final,2016,Stockholm,Iceland,B,Kristin Bjorg,female,8.03.1958  ,Former TV producer.
-voting-detailsfirst-semi-final,2016,Stockholm,Iceland,C,Kristjana Stefans,female,25.05.1968  ,singer-songwriter
+voting-detailsfirst-semi-final,2016,Stockholm,Iceland,C,Kristjana Stefans,female,25.05.1968  ,Singer/Songwriter
 voting-detailsfirst-semi-final,2016,Stockholm,Iceland,D,Vera,female,11.12.1995  ,Music student
-voting-detailsfirst-semi-final,2016,Stockholm,Iceland,E,Bjorgvin Ivar,male,20.11.1986  ,Music Producer/engineer/musician
+voting-detailsfirst-semi-final,2016,Stockholm,Iceland,E,Bjorgvin Ivar,male,20.11.1986  ,Music Producer/engineer/Musician
 voting-detailsfirst-semi-final,2016,Stockholm,Malta,B,Maria Abdilla,female,11.10.1981  ,Vocal Coach / Music Teacher
 voting-detailsfirst-semi-final,2016,Stockholm,Malta,C,Ismael Portelli,male,10.09.1985  ,Director/Creative Director
 voting-detailsfirst-semi-final,2016,Stockholm,Malta,D,Angie Laus,female,31.03.1975  ,TV Presenter / TV Producer
@@ -185,7 +185,7 @@ voting-detailsfirst-semi-final,2016,Stockholm,Moldova,B,Lidia Scarlat,female,30.
 voting-detailsfirst-semi-final,2016,Stockholm,Moldova,C,Adriano Marian,male,12.02.1989  ,dirijer
 voting-detailsfirst-semi-final,2016,Stockholm,Moldova,D,Georgeta Voinovan,female,7.07.1971  ,Composer
 voting-detailsfirst-semi-final,2016,Stockholm,Moldova,E,Ion Bratescu,male,13.02.1986  ,Dirijor
-voting-detailsfirst-semi-final,2016,Stockholm,Montenegro,E,Ivana Canovic,female,6.01.1988  ,opera singer
+voting-detailsfirst-semi-final,2016,Stockholm,Montenegro,E,Ivana Canovic,female,6.01.1988  ,opera Singer
 voting-detailsfirst-semi-final,2016,Stockholm,Russia,B,Lipa,female,21.04.1980  ,TV host
 voting-detailsfirst-semi-final,2016,Stockholm,San-marino,D,Oder,male,20.12.1990  ,Musician - beat creator
 voting-detailsfirst-semi-final,2016,Stockholm,San-marino,E,Carlo Chiaruzzi,male,5.08.1978  ,audio engineer
@@ -223,38 +223,38 @@ voting-detailssecond-semi-final,2016,Stockholm,Belgium,E,Leen Demarï¿½,female,19
 voting-detailssecond-semi-final,2016,Stockholm,Denmark,B,Morten Specht,male,30.07.1983  ,Drummer
 voting-detailssecond-semi-final,2016,Stockholm,Denmark,D,Hilda Heick,female,19.06.1946  ,Singer and Songwriter
 voting-detailssecond-semi-final,2016,Stockholm,Denmark,E,Basim,male,30.08.1972  ,Singer & Songwriter
-voting-detailssecond-semi-final,2016,Stockholm,Georgia,B,Natsvlishvili Nata,female,23.02.1990  ,singer-songwriter
+voting-detailssecond-semi-final,2016,Stockholm,Georgia,B,Natsvlishvili Nata,female,23.02.1990  ,Singer/Songwriter
 voting-detailssecond-semi-final,2016,Stockholm,Georgia,C,Zaza Orashvili,male,17.11.1967  ,Stage and Video Director.
 voting-detailssecond-semi-final,2016,Stockholm,Georgia,D,Asanishvili George,male,29.11.1972  ,Sound Engineer
 voting-detailssecond-semi-final,2016,Stockholm,Georgia,E,Helen Kalandadze,female,8.07.1989  ,Singer
 voting-detailssecond-semi-final,2016,Stockholm,Germany,A,Namika,female,7.09.1991  ,Singer
-voting-detailssecond-semi-final,2016,Stockholm,Germany,B,Hoss Power,male,7.12.1971  ,singer/composer/musician
-voting-detailssecond-semi-final,2016,Stockholm,Germany,C,Boss Burns,male,28.02.1972  ,singer
-voting-detailssecond-semi-final,2016,Stockholm,Germany,D,Sarah Connor,female,13.06.1980  ,singer/songwriter
-voting-detailssecond-semi-final,2016,Stockholm,Germany,E,Anna Loos,female,18.11.1970  ,singer/actress
+voting-detailssecond-semi-final,2016,Stockholm,Germany,B,Hoss Power,male,7.12.1971  ,Singer/Composer/Musician
+voting-detailssecond-semi-final,2016,Stockholm,Germany,C,Boss Burns,male,28.02.1972  ,Singer
+voting-detailssecond-semi-final,2016,Stockholm,Germany,D,Sarah Connor,female,13.06.1980  ,Singer/Songwriter
+voting-detailssecond-semi-final,2016,Stockholm,Germany,E,Anna Loos,female,18.11.1970  ,Singer/actress
 voting-detailssecond-semi-final,2016,Stockholm,Ireland,A,Ken O'Sullivan,male,9.12.1960  ,Radio presenter
-voting-detailssecond-semi-final,2016,Stockholm,Ireland,B,Molly Sterling,female,8.03.1998  ,Singer/songwriter
-voting-detailssecond-semi-final,2016,Stockholm,Ireland,C,Lauren Murphy,female,26.02.1984  ,Freelance music & arts journalist/Website Music editor
+voting-detailssecond-semi-final,2016,Stockholm,Ireland,B,Molly Sterling,female,8.03.1998  ,Singer/Songwriter
+voting-detailssecond-semi-final,2016,Stockholm,Ireland,C,Lauren Murphy,female,26.02.1984  ,Freelance music & arts Journalist/Website Music editor
 voting-detailssecond-semi-final,2016,Stockholm,Ireland,D,Caroline Henry,female,16.06.1966  ,Music associate/production manager
 voting-detailssecond-semi-final,2016,Stockholm,Ireland,E,Jimmy Rainsford,male,18.09.1992  ,Musician
 voting-detailssecond-semi-final,2016,Stockholm,Israel,B,Nathan Slor,male,30.01.1972  ,Musician
 voting-detailssecond-semi-final,2016,Stockholm,Israel,D,Rhone Rabin,male,29.10.1982  ,Advertising and Marketing
 voting-detailssecond-semi-final,2016,Stockholm,Italy,A,Alessandro Pigliavento,male,11.07.1977  ,web marketing specialist - blogger
-voting-detailssecond-semi-final,2016,Stockholm,Italy,B,Paolo Belli,male,21.03.1962  ,singer - showman
-voting-detailssecond-semi-final,2016,Stockholm,Italy,C,Stefania Zizzari,female,12.04.1966  ,journalist
+voting-detailssecond-semi-final,2016,Stockholm,Italy,B,Paolo Belli,male,21.03.1962  ,Singer - showman
+voting-detailssecond-semi-final,2016,Stockholm,Italy,C,Stefania Zizzari,female,12.04.1966  ,Journalist
 voting-detailssecond-semi-final,2016,Stockholm,Italy,D,Andrea Maria Delogu,female,23.05.1982  ,tv show host
 voting-detailssecond-semi-final,2016,Stockholm,Italy,E,Max Novaresi,male,31.12.1971  ,Television host and writer
 voting-detailssecond-semi-final,2016,Stockholm,Lithuania,D,Vytautas Lukocius,male,9.03.1975  ,Conductor of Lithuanian chamber orchestra
-voting-detailssecond-semi-final,2016,Stockholm,Lithuania,E,Justas Cekuolis,male,14.01.1975  ,Music producer
-voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,C,Goran Naumovski,male,5.11.1977  ,singer
-voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,D,Miyatta,female,28.06.1981  ,songwriter and singer
-voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,E,Nade Talevska,female,10.02.1986  ,singer
+voting-detailssecond-semi-final,2016,Stockholm,Lithuania,E,Justas Cekuolis,male,14.01.1975  ,Music Producer
+voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,C,Goran Naumovski,male,5.11.1977  ,Singer
+voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,D,Miyatta,female,28.06.1981  ,songwriter and Singer
+voting-detailssecond-semi-final,2016,Stockholm,Fyr-macedonia,E,Nade Talevska,female,10.02.1986  ,Singer
 voting-detailssecond-semi-final,2016,Stockholm,Norway,A,Christian Ingebrigtsen,male,25.01.1977  ,Artist/songwriter
 voting-detailssecond-semi-final,2016,Stockholm,Norway,B,Tom Stereo,male,23.03.1982  ,Artist
 voting-detailssecond-semi-final,2016,Stockholm,Norway,C,Pernille Torp-Holte,female,19.02.1974  ,general manager
 voting-detailssecond-semi-final,2016,Stockholm,Norway,E,Mia Gundersen Leliï¿½nhof,female,27.11.1961  ,Artist/Singer
-voting-detailssecond-semi-final,2016,Stockholm,Poland,A,Marcin Kusy,male,15.03.1977  ,journalist
-voting-detailssecond-semi-final,2016,Stockholm,Poland,D,Jakub Raczynski,male,26.11.1980  ,musician
+voting-detailssecond-semi-final,2016,Stockholm,Poland,A,Marcin Kusy,male,15.03.1977  ,Journalist
+voting-detailssecond-semi-final,2016,Stockholm,Poland,D,Jakub Raczynski,male,26.11.1980  ,Musician
 voting-detailssecond-semi-final,2016,Stockholm,Poland,E,Artur Zielinski,male,24.07.1991  ,Association member OGAE Poland
 voting-detailssecond-semi-final,2016,Stockholm,Serbia,A,Slobodan Markovic,male,19.11.1951  ,Composer
 voting-detailssecond-semi-final,2016,Stockholm,Serbia,D,Vladimir Graic,male,19.02.1968  ,Composer
@@ -262,8 +262,8 @@ voting-detailssecond-semi-final,2016,Stockholm,Serbia,E,Ana Milenkovic,female,19
 voting-detailssecond-semi-final,2016,Stockholm,Slovenia,C,Ursa Vlasic,female,29.09.1968  ,Lyricist
 voting-detailssecond-semi-final,2016,Stockholm,Switzerland,A,TBA/Phonag,male,29.07.1973  ,Head of Marketing and A&R TBA/Phonag AG
 voting-detailssecond-semi-final,2016,Stockholm,Switzerland,B,Viola Tami,female,10.04.1981  ,presenter and actor
-voting-detailssecond-semi-final,2016,Stockholm,Switzerland,C,Luca Hï¿½nni,male,8.10.1994  ,singer-songwriter
-voting-detailssecond-semi-final,2016,Stockholm,Switzerland,D,Tshanda Sangwa,male,26.07.1996  ,singer and pianist
+voting-detailssecond-semi-final,2016,Stockholm,Switzerland,C,Luca Hï¿½nni,male,8.10.1994  ,Singer/Songwriter
+voting-detailssecond-semi-final,2016,Stockholm,Switzerland,D,Tshanda Sangwa,male,26.07.1996  ,Singer and pianist
 voting-detailssecond-semi-final,2016,Stockholm,Switzerland,E,Charlie Roe,female,7.05.1983  ,Singer-/Songwriter
 voting-detailssecond-semi-final,2016,Stockholm,Ukraine,B,Valentyn Koval,male,8.10.1962  ,M1/M2 General Manager
 voting-detailssecond-semi-final,2016,Stockholm,Ukraine,E,Valeria Chachibaya,female,27.01.1978  ,Director of Radio Aristocrats PLC
@@ -296,15 +296,15 @@ voting-detailsgrand-final,2016,Stockholm,Belgium,B,Tom Helsen,male,19.07.1976  ,
 voting-detailsgrand-final,2016,Stockholm,Belgium,C,Aurlie,female,26.06.1995  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Belgium,D,Jo Lemaire,female,31.01.1956  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Belgium,E,Leen Demarï¿½,female,19.01.1962  ,Radio DJ
-voting-detailsgrand-final,2016,Stockholm,Bosnia-herzegovina,A,Alma Cardï¿½ic,female,10.03.1968  ,singer
-voting-detailsgrand-final,2016,Stockholm,Bosnia-herzegovina,C,Elvir Hadï¿½ijamakovic,male,2.11.1972  ,editor and singer
+voting-detailsgrand-final,2016,Stockholm,Bosnia-herzegovina,A,Alma Cardï¿½ic,female,10.03.1968  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Bosnia-herzegovina,C,Elvir Hadï¿½ijamakovic,male,2.11.1972  ,editor and Singer
 voting-detailsgrand-final,2016,Stockholm,Bosnia-herzegovina,D,Amir Misirlic,male,30.12.1963  ,music editor
-voting-detailsgrand-final,2016,Stockholm,Bosnia-herzegovina,E,Nardin Masic,male,25.04.1984  ,composer
-voting-detailsgrand-final,2016,Stockholm,Croatia,A,Boris ï¿½urdevic,male,15.03.1973  ,music producer
-voting-detailsgrand-final,2016,Stockholm,Croatia,B,Kim Verson,female,2.09.1993  ,singer
-voting-detailsgrand-final,2016,Stockholm,Croatia,C,Pamela Ramljak,female,24.12.1979  ,singer
-voting-detailsgrand-final,2016,Stockholm,Croatia,D,Damir Kedï¿½o,female,24.05.1987  ,singer
-voting-detailsgrand-final,2016,Stockholm,Croatia,E,Duï¿½ko Mandic,male,4.06.1958  ,music producer
+voting-detailsgrand-final,2016,Stockholm,Bosnia-herzegovina,E,Nardin Masic,male,25.04.1984  ,Composer
+voting-detailsgrand-final,2016,Stockholm,Croatia,A,Boris ï¿½urdevic,male,15.03.1973  ,Music Producer
+voting-detailsgrand-final,2016,Stockholm,Croatia,B,Kim Verson,female,2.09.1993  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Croatia,C,Pamela Ramljak,female,24.12.1979  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Croatia,D,Damir Kedï¿½o,female,24.05.1987  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Croatia,E,Duï¿½ko Mandic,male,4.06.1958  ,Music Producer
 voting-detailsgrand-final,2016,Stockholm,Cyprus,A,Silia Ioannidou,female,22.11.1972  ,Journalist/Radio producer
 voting-detailsgrand-final,2016,Stockholm,Cyprus,B,Nicos Evangelou,male,23.07.1975  ,Music Teacher / Pianist
 voting-detailsgrand-final,2016,Stockholm,Cyprus,C,Poly Roussou,female,24.06.1968  ,Pianist/Music teacher/Assistant Headmistress
@@ -314,54 +314,54 @@ voting-detailsgrand-final,2016,Stockholm,Czech-republic,E,Markï¿½ta Neï¿½lehovï¿
 voting-detailsgrand-final,2016,Stockholm,Denmark,B,Morten Specht,male,30.07.1983  ,Drummer
 voting-detailsgrand-final,2016,Stockholm,Denmark,D,Hilda Heick,female,19.06.1946  ,Singer and Songwriter
 voting-detailsgrand-final,2016,Stockholm,Denmark,E,Basim,male,30.08.1972  ,Singer & Songwriter
-voting-detailsgrand-final,2016,Stockholm,Estonia,A,Els Himma,female,23.01.1940  ,singer
-voting-detailsgrand-final,2016,Stockholm,Estonia,B,Priit Pajusaar,male,6.04.1964  ,composer
+voting-detailsgrand-final,2016,Stockholm,Estonia,A,Els Himma,female,23.01.1940  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Estonia,B,Priit Pajusaar,male,6.04.1964  ,Composer
 voting-detailsgrand-final,2016,Stockholm,Estonia,D,Hanna Parman,female,12.12.1992  ,artist and teacher
-voting-detailsgrand-final,2016,Stockholm,Estonia,E,Taavi Paomets,male,23.07.1988  ,an independant musician and music producer
+voting-detailsgrand-final,2016,Stockholm,Estonia,E,Taavi Paomets,male,23.07.1988  ,an independant Musician and Music Producer
 voting-detailsgrand-final,2016,Stockholm,Finland,A,Hanna Kinnunen,female,8.07.1980  ,Radio host and producer
-voting-detailsgrand-final,2016,Stockholm,Finland,B,Heimo Hatakka,male,9.05.1965  ,Lyricist-journalist
+voting-detailsgrand-final,2016,Stockholm,Finland,B,Heimo Hatakka,male,9.05.1965  ,Lyricist-Journalist
 voting-detailsgrand-final,2016,Stockholm,Finland,C,Jori Allan Petteri Sjï¿½roos,male,24.09.1976  ,Producer/Composer/Artist
-voting-detailsgrand-final,2016,Stockholm,Finland,E,Jurek,male,15.11.1986  ,Music producer
+voting-detailsgrand-final,2016,Stockholm,Finland,E,Jurek,male,15.11.1986  ,Music Producer
 voting-detailsgrand-final,2016,Stockholm,France,A,Pat Angeli,male,3.05.1961  ,Radio Journalist / Music Specialist
 voting-detailsgrand-final,2016,Stockholm,France,B,Sarah Caillibot,female,14.06.1984  ,Artist / Singer
 voting-detailsgrand-final,2016,Stockholm,France,C,Dumï¿½,male,24.11.1981  ,Artist
 voting-detailsgrand-final,2016,Stockholm,France,D,Roberto Ciurleo,male,28.06.1969  ,Music Producer / Radio Channel Manager
 voting-detailsgrand-final,2016,Stockholm,France,E,Lï¿½a Ivanne,female,29.11.1960  ,Songwriter
-voting-detailsgrand-final,2016,Stockholm,Georgia,B,Natsvlishvili Nata,female,23.02.1990  ,singer-songwriter
+voting-detailsgrand-final,2016,Stockholm,Georgia,B,Natsvlishvili Nata,female,23.02.1990  ,Singer/Songwriter
 voting-detailsgrand-final,2016,Stockholm,Georgia,C,Zaza Orashvili,male,17.11.1967  ,Stage and Video Director.
 voting-detailsgrand-final,2016,Stockholm,Georgia,D,Asanishvili George,male,29.11.1972  ,Sound Engineer
 voting-detailsgrand-final,2016,Stockholm,Georgia,E,Helen Kalandadze,female,8.07.1989  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Germany,A,Namika,female,7.09.1991  ,Singer
-voting-detailsgrand-final,2016,Stockholm,Germany,B,Hoss Power,male,7.12.1971  ,singer/composer/musician
-voting-detailsgrand-final,2016,Stockholm,Germany,C,Boss Burns,male,28.02.1972  ,singer
-voting-detailsgrand-final,2016,Stockholm,Germany,D,Sarah Connor,female,13.06.1980  ,singer/songwriter
-voting-detailsgrand-final,2016,Stockholm,Germany,E,Anna Loos,female,18.11.1970  ,singer/actress
+voting-detailsgrand-final,2016,Stockholm,Germany,B,Hoss Power,male,7.12.1971  ,Singer/Composer/Musician
+voting-detailsgrand-final,2016,Stockholm,Germany,C,Boss Burns,male,28.02.1972  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Germany,D,Sarah Connor,female,13.06.1980  ,Singer/Songwriter
+voting-detailsgrand-final,2016,Stockholm,Germany,E,Anna Loos,female,18.11.1970  ,Singer/actress
 voting-detailsgrand-final,2016,Stockholm,Greece,A,Mariza Fakli,female,15.10.1959  ,Artists' public relations
 voting-detailsgrand-final,2016,Stockholm,Greece,B,Christiana Stamatelou,female,30.03.1952  ,Journalist & Music Producer
 voting-detailsgrand-final,2016,Stockholm,Greece,C,Georgios Segredakis,male,12.01.1975  ,Curator stage presence - Costume designer
 voting-detailsgrand-final,2016,Stockholm,Greece,D,Adam Tsarouchis,male,3.07.1977  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Greece,E,Lambros Konstantaras,male,6.08.1979  ,Radio Producer/Journalist
-voting-detailsgrand-final,2016,Stockholm,Hungary,B,Wolf Kati,female,24.09.1974  ,singer
+voting-detailsgrand-final,2016,Stockholm,Hungary,B,Wolf Kati,female,24.09.1974  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Hungary,E,Novï¿½k Pï¿½ter,male,18.07.1970  ,performer
-voting-detailsgrand-final,2016,Stockholm,Iceland,A,Maggi Kjartans,male,6.07.1951  ,Musician/composer
+voting-detailsgrand-final,2016,Stockholm,Iceland,A,Maggi Kjartans,male,6.07.1951  ,Musician/Composer
 voting-detailsgrand-final,2016,Stockholm,Iceland,B,Kristin Bjorg,female,8.03.1958  ,Former TV producer.
-voting-detailsgrand-final,2016,Stockholm,Iceland,C,Kristjana Stefans,female,25.05.1968  ,singer-songwriter
+voting-detailsgrand-final,2016,Stockholm,Iceland,C,Kristjana Stefans,female,25.05.1968  ,Singer/Songwriter
 voting-detailsgrand-final,2016,Stockholm,Iceland,D,Vera,female,11.12.1995  ,Music student
-voting-detailsgrand-final,2016,Stockholm,Iceland,E,Bjorgvin Ivar,male,20.11.1986  ,Music Producer/engineer/musician
+voting-detailsgrand-final,2016,Stockholm,Iceland,E,Bjorgvin Ivar,male,20.11.1986  ,Music Producer/engineer/Musician
 voting-detailsgrand-final,2016,Stockholm,Ireland,A,Ken O'Sullivan,male,9.12.1960  ,Radio presenter
-voting-detailsgrand-final,2016,Stockholm,Ireland,B,Molly Sterling,female,8.03.1998  ,Singer/songwriter
-voting-detailsgrand-final,2016,Stockholm,Ireland,C,Lauren Murphy,female,26.02.1984  ,Freelance music & arts journalist/Website Music editor
+voting-detailsgrand-final,2016,Stockholm,Ireland,B,Molly Sterling,female,8.03.1998  ,Singer/Songwriter
+voting-detailsgrand-final,2016,Stockholm,Ireland,C,Lauren Murphy,female,26.02.1984  ,Freelance music & arts Journalist/Website Music editor
 voting-detailsgrand-final,2016,Stockholm,Ireland,D,Caroline Henry,female,16.06.1966  ,Music associate/production manager
 voting-detailsgrand-final,2016,Stockholm,Ireland,E,Jimmy Rainsford,male,18.09.1992  ,Musician
 voting-detailsgrand-final,2016,Stockholm,Israel,B,Nathan Slor,male,30.01.1972  ,Musician
 voting-detailsgrand-final,2016,Stockholm,Israel,D,Rhone Rabin,male,29.10.1982  ,Advertising and Marketing
 voting-detailsgrand-final,2016,Stockholm,Italy,A,Alessandro Pigliavento,male,11.07.1977  ,web marketing specialist - blogger
-voting-detailsgrand-final,2016,Stockholm,Italy,B,Paolo Belli,male,21.03.1962  ,singer - showman
-voting-detailsgrand-final,2016,Stockholm,Italy,C,Stefania Zizzari,female,12.04.1966  ,journalist
+voting-detailsgrand-final,2016,Stockholm,Italy,B,Paolo Belli,male,21.03.1962  ,Singer - showman
+voting-detailsgrand-final,2016,Stockholm,Italy,C,Stefania Zizzari,female,12.04.1966  ,Journalist
 voting-detailsgrand-final,2016,Stockholm,Italy,D,Andrea Maria Delogu,female,23.05.1982  ,tv show host
-voting-detailsgrand-final,2016,Stockholm,Italy,E,Tiziana Leone,female,23.03.1971  ,journalist
+voting-detailsgrand-final,2016,Stockholm,Italy,E,Tiziana Leone,female,23.03.1971  ,Journalist
 voting-detailsgrand-final,2016,Stockholm,Lithuania,D,Vytautas Lukocius,male,9.03.1975  ,Conductor of Lithuanian chamber orchestra
-voting-detailsgrand-final,2016,Stockholm,Lithuania,E,Justas Cekuolis,male,14.01.1975  ,Music producer
+voting-detailsgrand-final,2016,Stockholm,Lithuania,E,Justas Cekuolis,male,14.01.1975  ,Music Producer
 voting-detailsgrand-final,2016,Stockholm,Malta,B,Maria Abdilla,female,11.10.1981  ,Vocal Coach / Music Teacher
 voting-detailsgrand-final,2016,Stockholm,Malta,C,Ismael Portelli,male,10.09.1985  ,Director/Creative Director
 voting-detailsgrand-final,2016,Stockholm,Malta,D,Angie Laus,female,31.03.1975  ,TV Presenter / TV Producer
@@ -370,16 +370,16 @@ voting-detailsgrand-final,2016,Stockholm,Moldova,B,Lidia Scarlat,female,30.12.19
 voting-detailsgrand-final,2016,Stockholm,Moldova,C,Adriano Marian,male,12.02.1989  ,dirijer
 voting-detailsgrand-final,2016,Stockholm,Moldova,D,Georgeta Voinovan,female,7.07.1971  ,Composer
 voting-detailsgrand-final,2016,Stockholm,Moldova,E,Ion Bratescu,male,13.02.1986  ,Dirijor
-voting-detailsgrand-final,2016,Stockholm,Montenegro,E,Ivana Canovic,female,6.01.1988  ,opera singer
-voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,C,Goran Naumovski,male,5.11.1977  ,singer
-voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,D,Miyatta,female,28.06.1981  ,songwriter and singer
-voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,E,Nade Talevska,female,10.02.1986  ,singer
+voting-detailsgrand-final,2016,Stockholm,Montenegro,E,Ivana Canovic,female,6.01.1988  ,opera Singer
+voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,C,Goran Naumovski,male,5.11.1977  ,Singer
+voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,D,Miyatta,female,28.06.1981  ,songwriter and Singer
+voting-detailsgrand-final,2016,Stockholm,Fyr-macedonia,E,Nade Talevska,female,10.02.1986  ,Singer
 voting-detailsgrand-final,2016,Stockholm,Norway,A,Christian Ingebrigtsen,male,25.01.1977  ,Artist/songwriter
 voting-detailsgrand-final,2016,Stockholm,Norway,B,Tom Stereo,male,23.03.1982  ,Artist
 voting-detailsgrand-final,2016,Stockholm,Norway,C,Pernille Torp-Holte,female,19.02.1974  ,general manager
 voting-detailsgrand-final,2016,Stockholm,Norway,E,Mia Gundersen Leliï¿½nhof,female,27.11.1961  ,Artist/Singer
-voting-detailsgrand-final,2016,Stockholm,Poland,A,Marcin Kusy,male,15.03.1977  ,journalist
-voting-detailsgrand-final,2016,Stockholm,Poland,D,Jakub Raczynski,male,26.11.1980  ,musician
+voting-detailsgrand-final,2016,Stockholm,Poland,A,Marcin Kusy,male,15.03.1977  ,Journalist
+voting-detailsgrand-final,2016,Stockholm,Poland,D,Jakub Raczynski,male,26.11.1980  ,Musician
 voting-detailsgrand-final,2016,Stockholm,Poland,E,Artur Zielinski,male,24.07.1991  ,Association member OGAE Poland
 voting-detailsgrand-final,2016,Stockholm,Russia,B,Lipa,female,21.04.1980  ,TV host
 voting-detailsgrand-final,2016,Stockholm,Russia,E,Stanislav Duzhnikov,male,17.05.1973  ,Actor
@@ -400,8 +400,8 @@ voting-detailsgrand-final,2016,Stockholm,Sweden,D,Rckard Keilor,male,6.08.1971  
 voting-detailsgrand-final,2016,Stockholm,Sweden,E,Lisa Ajax,female,13.08.1998  ,Artist
 voting-detailsgrand-final,2016,Stockholm,Switzerland,A,TBA/Phonag,male,29.07.1973  ,Head of Marketing and A&R TBA/Phonag AG
 voting-detailsgrand-final,2016,Stockholm,Switzerland,B,Viola Tami,female,10.04.1981  ,presenter and actor
-voting-detailsgrand-final,2016,Stockholm,Switzerland,C,Luca Hï¿½nni,male,8.10.1994  ,singer-songwriter
-voting-detailsgrand-final,2016,Stockholm,Switzerland,D,Tshanda Sangwa,male,26.07.1996  ,singer and pianist
+voting-detailsgrand-final,2016,Stockholm,Switzerland,C,Luca Hï¿½nni,male,8.10.1994  ,Singer/Songwriter
+voting-detailsgrand-final,2016,Stockholm,Switzerland,D,Tshanda Sangwa,male,26.07.1996  ,Singer and pianist
 voting-detailsgrand-final,2016,Stockholm,Switzerland,E,Charlie Roe,female,7.05.1983  ,Singer-/Songwriter
 voting-detailsgrand-final,2016,Stockholm,The-netherlands,A,Holger Schwedt,male,6.04.1967  ,Producer
 voting-detailsgrand-final,2016,Stockholm,The-netherlands,B,Setske Mostaert,female,3.01.1955  ,Vocal coach / Singer
@@ -414,14 +414,14 @@ voting-detailsgrand-final,2016,Stockholm,United-kingdom,B,Bea Munro,female,26.04
 voting-detailsgrand-final,2016,Stockholm,United-kingdom,C,Seamus Haji,male,30.12.1968  ,DJ/Producer/A&R/Record label owner/Radio presenter/Music Business Tutor
 voting-detailsgrand-final,2016,Stockholm,United-kingdom,D,Sean McGhee,male,20.04.1976  ,Singer / producer / songwriter
 voting-detailsgrand-final,2016,Stockholm,United-kingdom,E,Kiran Thakrar,male,4.03.1963  ,Music Producer/ Music Composer
-voting-detailsfirst-semi-final,2016,Stockholm,Azerbaijan,D,Farid Aliyev,male,29.03.1975  ,opera singer
-voting-detailsgrand-final,2016,Stockholm,Azerbaijan,C,Farid Aliyev,male,29.03.1975  ,opera singer
+voting-detailsfirst-semi-final,2016,Stockholm,Azerbaijan,D,Farid Aliyev,male,29.03.1975  ,opera Singer
+voting-detailsgrand-final,2016,Stockholm,Azerbaijan,C,Farid Aliyev,male,29.03.1975  ,opera Singer
 voting-detailssecond-semi-final,2016,Stockholm,Belarus,B,Alexander Kapyonkin,male,7.03.1976  ,Head of ODL Television Program BelMuzTV
 voting-detailsgrand-final,2016,Stockholm,Belarus,B,Alexander Kapyonkin,male,7.03.1976  ,Head of ODL Television Program BelMuzTV
 voting-detailsfirst-semi-final,2017,Kyiv,Azerbaijan,C,Anvar Sadigov,male,30.04.1966  ,accordionist
 voting-detailsgrand-final,2017,Kyiv,Azerbaijan,C,Anvar Sadigov,male,30.04.1966  ,accordionist
-voting-detailssecond-semi-final,2017,Kyiv,Bulgaria,B,Orlin Pavlov,male,23.04.1979  ,singer
-voting-detailsgrand-final,2017,Kyiv,Bulgaria,B,Orlin Pavlov,male,23.04.1979  ,singer
+voting-detailssecond-semi-final,2017,Kyiv,Bulgaria,B,Orlin Pavlov,male,23.04.1979  ,Singer
+voting-detailsgrand-final,2017,Kyiv,Bulgaria,B,Orlin Pavlov,male,23.04.1979  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Hungary,D,Zsï¿½da,female,30.12.1974  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Hungary,D,Zsï¿½da,female,30.12.1974  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Poland,A,Grzegorz Urban,male,3.04.1983  ,Composer
@@ -433,19 +433,19 @@ voting-detailsgrand-final,2017,Kyiv,Austria,D,Sasha Saedi,male,9.10.1973  ,label
 voting-detailssecond-semi-final,2017,Kyiv,Ireland,C,Amanda Lane,female,8.10.1970  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Ireland,C,Amanda Lane,female,8.10.1970  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Armenia,A,Ara Gevorgyan,male,19.04.1960  ,Musician
-voting-detailsfirst-semi-final,2017,Kyiv,Czech-republic,D,Elis Mraz,female,6.08.1994  ,singer
+voting-detailsfirst-semi-final,2017,Kyiv,Czech-republic,D,Elis Mraz,female,6.08.1994  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Latvia,D,Valters Puce,male,12.06.1985  ,cellist
-voting-detailsfirst-semi-final,2017,Kyiv,Slovenia,B,Gaber Radojevic,male,27.05.1979  ,Music producer
+voting-detailsfirst-semi-final,2017,Kyiv,Slovenia,B,Gaber Radojevic,male,27.05.1979  ,Music Producer
 voting-detailssecond-semi-final,2017,Kyiv,Denmark,D,Morten Kï¿½rsï¿½,male,26.09.1957  ,Musicproducer
 voting-detailssecond-semi-final,2017,Kyiv,Romania,B,Mihai,male,16.12.1976  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,The-netherlands,B,Gordon Hendrik Gerardus Groothedde,male,11.10.1968  ,Producer
 voting-detailssecond-semi-final,2017,Kyiv,Ukraine,E,ILLARIA,female,6.12.1986  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Armenia,A,Ara Gevorgyan,male,19.04.1960  ,Musician
-voting-detailsgrand-final,2017,Kyiv,Czech-republic,C,Elis Mraz,female,6.08.1994  ,singer
+voting-detailsgrand-final,2017,Kyiv,Czech-republic,C,Elis Mraz,female,6.08.1994  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Denmark,D,Morten Kï¿½rsï¿½,male,26.09.1957  ,Musicproducer
 voting-detailsgrand-final,2017,Kyiv,Latvia,D,Valters Puce,male,12.06.1985  ,cellist
 voting-detailsgrand-final,2017,Kyiv,Romania,B,Mihai,male,16.12.1976  ,Singer
-voting-detailsgrand-final,2017,Kyiv,Slovenia,B,Gaber Radojevic,male,27.05.1979  ,Music producer
+voting-detailsgrand-final,2017,Kyiv,Slovenia,B,Gaber Radojevic,male,27.05.1979  ,Music Producer
 voting-detailsgrand-final,2017,Kyiv,The-netherlands,B,Gordon Hendrik Gerardus Groothedde,male,11.10.1968  ,Producer
 voting-detailsgrand-final,2017,Kyiv,Ukraine,E,ILLARIA,female,6.12.1986  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Australia,A,Dr. Steven Capaldo,male,17.05.1972  ,Uni. music education lecturer
@@ -479,13 +479,13 @@ voting-detailsfirst-semi-final,2017,Kyiv,Australia,E,Natasha Cupitt,female,2.08.
 voting-detailsgrand-final,2017,Kyiv,Australia,E,Natasha Cupitt,female,2.08.1977  ,Voice Coach
 voting-detailssecond-semi-final,2017,Kyiv,Bulgaria,A,Milka Miteva,female,23.04.1953  ,Musician
 voting-detailsgrand-final,2017,Kyiv,Bulgaria,A,Milka Miteva,female,23.04.1953  ,Musician
-voting-detailssecond-semi-final,2017,Kyiv,Bulgaria,C,Maria Grancharova,female,24.06.1971  ,singer
+voting-detailssecond-semi-final,2017,Kyiv,Bulgaria,C,Maria Grancharova,female,24.06.1971  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Hungary,B,Gï¿½bor Zï¿½vodi,male,23.04.1964  ,Songwriter
 voting-detailssecond-semi-final,2017,Kyiv,Ireland,A,Greg French,male,25.07.1982  ,Musical director
 voting-detailssecond-semi-final,2017,Kyiv,Switzerland,B,Pele Loriano,male,15.02.1969  ,Songwriter
 voting-detailssecond-semi-final,2017,Kyiv,The-netherlands,E,Matthijs Jacobus Thomas van Duijenbode,male,3.06.1981  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Ukraine,D,Serzh Gagarin,male,16.01.1985  ,Radio presenter
-voting-detailsgrand-final,2017,Kyiv,Bulgaria,C,Maria Grancharova,female,24.06.1971  ,singer
+voting-detailsgrand-final,2017,Kyiv,Bulgaria,C,Maria Grancharova,female,24.06.1971  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Hungary,B,Gï¿½bor Zï¿½vodi,male,23.04.1964  ,Songwriter
 voting-detailsgrand-final,2017,Kyiv,Ireland,A,Greg French,male,25.07.1982  ,Musical director
 voting-detailsgrand-final,2017,Kyiv,Switzerland,B,Pele Loriano,male,15.02.1969  ,Songwriter
@@ -495,14 +495,14 @@ voting-detailsfirst-semi-final,2017,Kyiv,Slovenia,D,Darja ï¿½vajger,female,12.11
 voting-detailsgrand-final,2017,Kyiv,Slovenia,D,Darja ï¿½vajger,female,12.11.1965  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,The-netherlands,C,Marjolein Elisabeth Gemma Veronica johanna Dekkers,female,16.11.1970  ,Editor in Chief MAX Broadcasting
 voting-detailsgrand-final,2017,Kyiv,The-netherlands,C,Marjolein Elisabeth Gemma Veronica johanna Dekkers,female,16.11.1970  ,Editor in Chief MAX Broadcasting
-voting-detailssecond-semi-final,2017,Kyiv,Bulgaria,D,Atanas Stoyanov,male,4.07.1980  ,journalist
-voting-detailsgrand-final,2017,Kyiv,Bulgaria,D,Atanas Stoyanov,male,4.07.1980  ,journalist
+voting-detailssecond-semi-final,2017,Kyiv,Bulgaria,D,Atanas Stoyanov,male,4.07.1980  ,Journalist
+voting-detailsgrand-final,2017,Kyiv,Bulgaria,D,Atanas Stoyanov,male,4.07.1980  ,Journalist
 voting-detailsfirst-semi-final,2017,Kyiv,Armenia,B,Emma Asatryan,female,3.11.1986  ,Vocal teacher
-voting-detailssecond-semi-final,2017,Kyiv,Belarus,E,Leonid Shyrin,male,11.08.1963  ,composer
+voting-detailssecond-semi-final,2017,Kyiv,Belarus,E,Leonid Shyrin,male,11.08.1963  ,Composer
 voting-detailssecond-semi-final,2017,Kyiv,Hungary,E,Petra Vï¿½rallyay,female,6.04.1992  ,Composer
 voting-detailssecond-semi-final,2017,Kyiv,Ireland,E,Louise Macnamara,female,6.01.1990  ,Musician
 voting-detailsgrand-final,2017,Kyiv,Armenia,B,Emma Asatryan,female,3.11.1986  ,Vocal teacher
-voting-detailsgrand-final,2017,Kyiv,Belarus,E,Leonid Shyrin,male,11.08.1963  ,composer
+voting-detailsgrand-final,2017,Kyiv,Belarus,E,Leonid Shyrin,male,11.08.1963  ,Composer
 voting-detailsgrand-final,2017,Kyiv,Hungary,E,Petra Vï¿½rallyay,female,6.04.1992  ,Composer
 voting-detailsgrand-final,2017,Kyiv,Ireland,E,Louise Macnamara,female,6.01.1990  ,Musician
 voting-detailsfirst-semi-final,2017,Kyiv,Portugal,A,Tozï¿½ Brito,male,25.08.1951  ,Composer
@@ -515,8 +515,8 @@ voting-detailsgrand-final,2017,Kyiv,Hungary,C,Viktor Kirï¿½ly,male,29.03.1984  ,
 voting-detailsgrand-final,2017,Kyiv,Portugal,A,Tozï¿½ Brito,male,25.08.1951  ,Composer
 voting-detailsgrand-final,2017,Kyiv,Switzerland,D,Anna Kï¿½nzig,female,25.07.1984  ,Singer
 voting-detailsgrand-final,2017,Kyiv,The-netherlands,D,Erica Greenf13ld,female,1.03.1979  ,Singer
-voting-detailssecond-semi-final,2017,Kyiv,Austria,E,Zoï¿½ Straub,female,1.12.1996  ,singer
-voting-detailsgrand-final,2017,Kyiv,Austria,E,Zoï¿½ Straub,female,1.12.1996  ,singer
+voting-detailssecond-semi-final,2017,Kyiv,Austria,E,Zoï¿½ Straub,female,1.12.1996  ,Singer
+voting-detailsgrand-final,2017,Kyiv,Austria,E,Zoï¿½ Straub,female,1.12.1996  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Slovenia,E,Aleksander Lavrini,male,21.08.1975  ,Music editor
 voting-detailsgrand-final,2017,Kyiv,Slovenia,E,Aleksander Lavrini,male,21.08.1975  ,Music editor
 voting-detailsfirst-semi-final,2017,Kyiv,Portugal,B,Nelson Carvalho,male,25.11.1970  ,Music Producer
@@ -541,21 +541,21 @@ voting-detailsfirst-semi-final,2017,Kyiv,Australia,C,Jackie Loeb,female,6.11.197
 voting-detailsfirst-semi-final,2017,Kyiv,Australia,D,Peter Hayward,male,27.03.1984  ,Music Teacher / Music Director / Creative Director
 voting-detailsfirst-semi-final,2017,Kyiv,Azerbaijan,A,Aleksandr Sharovskiy,male,10.02.1948  ,theatre director
 voting-detailsfirst-semi-final,2017,Kyiv,Azerbaijan,B,Afak Malikova,female,18.01.1947  ,artistic director
-voting-detailsfirst-semi-final,2017,Kyiv,Azerbaijan,D,Sevda Alakbar-zada,female,4.07.1977  ,pop and jazz singer
-voting-detailsfirst-semi-final,2017,Kyiv,Belgium,A,Kevin Cocco,male,21.08.1987  ,Teacher/singer/song composer/Communication officer
-voting-detailsfirst-semi-final,2017,Kyiv,Belgium,B,Typh Barrow,female,10.05.1987  ,Singer/author of lyrics/composer
+voting-detailsfirst-semi-final,2017,Kyiv,Azerbaijan,D,Sevda Alakbar-zada,female,4.07.1977  ,pop and jazz Singer
+voting-detailsfirst-semi-final,2017,Kyiv,Belgium,A,Kevin Cocco,male,21.08.1987  ,Teacher/Singer/song Composer/Communication officer
+voting-detailsfirst-semi-final,2017,Kyiv,Belgium,B,Typh Barrow,female,10.05.1987  ,Singer/author of lyrics/Composer
 voting-detailsfirst-semi-final,2017,Kyiv,Belgium,C,Jean-Franï¿½ois Pottier,male,16.02.1978  ,Head of Music Nostalgie Belgique
 voting-detailsfirst-semi-final,2017,Kyiv,Belgium,D,Etienne Baffrey,male,13.06.1964  ,Founder and director of radio antipode/ Teacher at IAD-Radio
 voting-detailsfirst-semi-final,2017,Kyiv,Belgium,E,Mia Lena,female,22.01.1998  ,Singer/Student
 voting-detailsfirst-semi-final,2017,Kyiv,Cyprus,A,Stavros Stavrou,male,10.05.1988  ,Lyricist
-voting-detailsfirst-semi-final,2017,Kyiv,Cyprus,B,Tasos Evaggelou,male,16.09.1979  ,Radio producer/journalist
+voting-detailsfirst-semi-final,2017,Kyiv,Cyprus,B,Tasos Evaggelou,male,16.09.1979  ,Radio producer/Journalist
 voting-detailsfirst-semi-final,2017,Kyiv,Cyprus,C,Eleni Sidera,female,18.02.1980  ,Radio producer/Actress
 voting-detailsfirst-semi-final,2017,Kyiv,Cyprus,D,Stella Georgiadou,female,5.04.1969  ,Perfomer/Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Cyprus,E,Yiannis Toumazis,male,31.07.1960  ,Director NiMAC/ Assistant Professor Frederick University/ Chair of the Board State Theater of Cyprus
 voting-detailsfirst-semi-final,2017,Kyiv,Czech-republic,A,Janis Sidovskï¿½,male,21.01.1968  ,producer
-voting-detailsfirst-semi-final,2017,Kyiv,Czech-republic,B,Eddie Stoilow,male,12.10.1980  ,music producer
+voting-detailsfirst-semi-final,2017,Kyiv,Czech-republic,B,Eddie Stoilow,male,12.10.1980  ,Music Producer
 voting-detailsfirst-semi-final,2017,Kyiv,Czech-republic,C,DJ Lucca,female,31.05.1978  ,DJ and producer
-voting-detailsfirst-semi-final,2017,Kyiv,Finland,A,Iisa,female,9.08.1979  ,singer-songwriter
+voting-detailsfirst-semi-final,2017,Kyiv,Finland,A,Iisa,female,9.08.1979  ,Singer/Songwriter
 voting-detailsfirst-semi-final,2017,Kyiv,Finland,B,Jonas Olsson,male,10.06.1981  ,producer/songwriter
 voting-detailsfirst-semi-final,2017,Kyiv,Finland,C,Marcus Sjï¿½strï¿½m,male,19.02.1970  ,Music Director
 voting-detailsfirst-semi-final,2017,Kyiv,Finland,D,Vicky,female,10.11.1958  ,Singer
@@ -568,9 +568,9 @@ voting-detailsfirst-semi-final,2017,Kyiv,Georgia,E,Mamuka Begashvili,male,24.06.
 voting-detailsfirst-semi-final,2017,Kyiv,Greece,A,Xenia Ghali,female,14.08.1989  ,Composer and producer
 voting-detailsfirst-semi-final,2017,Kyiv,Greece,B,Vicky Gerothodorou,female,1.11.1965  ,Lyricist
 voting-detailsfirst-semi-final,2017,Kyiv,Greece,C,Dimitris Ougarezos,male,9.02.1980  ,Radio producer
-voting-detailsfirst-semi-final,2017,Kyiv,Greece,D,Akis Anastasiadis,male,21.05.1972  ,Music producer
+voting-detailsfirst-semi-final,2017,Kyiv,Greece,D,Akis Anastasiadis,male,21.05.1972  ,Music Producer
 voting-detailsfirst-semi-final,2017,Kyiv,Greece,E,Aris Petrakis,male,18.11.1993  ,Performer
-voting-detailsfirst-semi-final,2017,Kyiv,Iceland,A,Helga Mï¿½ller,female,12.05.1957  ,Professional singer and flightattendant for Icelandair.
+voting-detailsfirst-semi-final,2017,Kyiv,Iceland,A,Helga Mï¿½ller,female,12.05.1957  ,Professional Singer and flightattendant for Icelandair.
 voting-detailsfirst-semi-final,2017,Kyiv,Iceland,B,Hildur Guï¿½nï¿½,female,30.09.1975  ,Musician and Music teacher.
 voting-detailsfirst-semi-final,2017,Kyiv,Iceland,D,Pï¿½tur ï¿½rn,male,21.10.1971  ,Musician
 voting-detailsfirst-semi-final,2017,Kyiv,Iceland,E,Stefanï¿½a,female,20.08.1992  ,Musician
@@ -578,33 +578,33 @@ voting-detailsfirst-semi-final,2017,Kyiv,Italy,B,Antonello,male,5.07.1985  ,Musi
 voting-detailsfirst-semi-final,2017,Kyiv,Italy,C,Giusy Cascio,female,30.04.1975  ,Journalist
 voting-detailsfirst-semi-final,2017,Kyiv,Italy,D,Chiara Di Giambattista,female,7.07.1974  ,Television author and screenwriter
 voting-detailsfirst-semi-final,2017,Kyiv,Latvia,A,Janis Ozols,male,1.11.1980  ,conductor
-voting-detailsfirst-semi-final,2017,Kyiv,Latvia,B,Ieva Akuratere,female,22.04.1958  ,singer
+voting-detailsfirst-semi-final,2017,Kyiv,Latvia,B,Ieva Akuratere,female,22.04.1958  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Latvia,C,Kaspars Ansons,male,19.03.1982  ,music record producer
-voting-detailsfirst-semi-final,2017,Kyiv,Latvia,E,Ruta Duduma,female,9.06.1991  ,jazz musician
+voting-detailsfirst-semi-final,2017,Kyiv,Latvia,E,Ruta Duduma,female,9.06.1991  ,jazz Musician
 voting-detailsfirst-semi-final,2017,Kyiv,Moldova,A,Natan,male,11.11.1987  ,Composer / Singer  / Producer
 voting-detailsfirst-semi-final,2017,Kyiv,Moldova,B,Nelly Ciobanu,female,28.10.1974  ,Artist
 voting-detailsfirst-semi-final,2017,Kyiv,Moldova,C,Valeria Barbas,female,26.02.1984  ,Artist
 voting-detailsfirst-semi-final,2017,Kyiv,Moldova,D,Paul Gamurari,male,13.03.1986  ,Composer
 voting-detailsfirst-semi-final,2017,Kyiv,Moldova,E,Angela Socolov,female,8.01.1973  ,Musician
-voting-detailsfirst-semi-final,2017,Kyiv,Montenegro,B,Branislav Bane Nedovicï¿½,male,24.04.1985  ,singer and musician
+voting-detailsfirst-semi-final,2017,Kyiv,Montenegro,B,Branislav Bane Nedovicï¿½,male,24.04.1985  ,Singer and Musician
 voting-detailsfirst-semi-final,2017,Kyiv,Montenegro,C,Ivana Pekicï¿½,female,29.01.1989  ,Solo singing professor
 voting-detailsfirst-semi-final,2017,Kyiv,Montenegro,D,Dras<U+030C>ko Djurovicï¿½,male,7.11.1962  ,TV and Movie director
-voting-detailsfirst-semi-final,2017,Kyiv,Montenegro,E,Anita Popovic,female,6.05.1985  ,musician
-voting-detailsfirst-semi-final,2017,Kyiv,Poland,B,Magda Steczkowska,female,21.09.1975  ,singer
+voting-detailsfirst-semi-final,2017,Kyiv,Montenegro,E,Anita Popovic,female,6.05.1985  ,Musician
+voting-detailsfirst-semi-final,2017,Kyiv,Poland,B,Magda Steczkowska,female,21.09.1975  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Poland,D,Marek Dutkiewicz,male,26.05.1969  ,Lyricist
-voting-detailsfirst-semi-final,2017,Kyiv,Poland,E,Magdalena Tul,female,29.04.1980  ,singer
+voting-detailsfirst-semi-final,2017,Kyiv,Poland,E,Magdalena Tul,female,29.04.1980  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Portugal,C,Inï¿½s Meneses,female,26.11.1971  ,Radialist
 voting-detailsfirst-semi-final,2017,Kyiv,Portugal,D,Celina da Piedade,female,9.06.1978  ,Musician
 voting-detailsfirst-semi-final,2017,Kyiv,Slovenia,A,Nika Zorjan,female,3.12.1992  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Spain,A,David Civera,male,8.01.1979  ,Singer
 voting-detailsfirst-semi-final,2017,Kyiv,Spain,B,Paula Rojo,female,16.07.1990  ,Singer
-voting-detailsfirst-semi-final,2017,Kyiv,Spain,C,Rubï¿½n,male,11.01.1982  ,music/composer/ musical producer
+voting-detailsfirst-semi-final,2017,Kyiv,Spain,C,Rubï¿½n,male,11.01.1982  ,music/Composer/ musical producer
 voting-detailsfirst-semi-final,2017,Kyiv,Spain,D,Antonio Hueso,male,29.03.1976  ,Radio Dj
 voting-detailsfirst-semi-final,2017,Kyiv,Spain,E,Natalia,female,10.12.1982  ,Singer/ songwriter
 voting-detailsfirst-semi-final,2017,Kyiv,Sweden,A,Michael,male,23.08.1964  ,Musiceditor
 voting-detailsfirst-semi-final,2017,Kyiv,Sweden,B,Wiktoria,female,8.11.1996  ,Artist
-voting-detailsfirst-semi-final,2017,Kyiv,Sweden,C,Maria Marcus,female,2.01.1980  ,Music producer/composer
-voting-detailsfirst-semi-final,2017,Kyiv,Sweden,D,Nils,male,12.08.1980  ,Music producer/composer
+voting-detailsfirst-semi-final,2017,Kyiv,Sweden,C,Maria Marcus,female,2.01.1980  ,Music Producer/Composer
+voting-detailsfirst-semi-final,2017,Kyiv,Sweden,D,Nils,male,12.08.1980  ,Music Producer/Composer
 voting-detailsfirst-semi-final,2017,Kyiv,Sweden,E,Andreas Jon Johnson,male,22.03.1970  ,Singer/Songwriter
 voting-detailsfirst-semi-final,2017,Kyiv,United-kingdom,A,Emma Stevens,female,4.05.1986  ,Songwriter
 voting-detailsfirst-semi-final,2017,Kyiv,United-kingdom,B,Rokhsan Heydari,female,2.06.1985  ,Songwriter
@@ -613,18 +613,18 @@ voting-detailsfirst-semi-final,2017,Kyiv,United-kingdom,D,Jay London,male,17.06.
 voting-detailsfirst-semi-final,2017,Kyiv,United-kingdom,E,Mary Hammond,female,16.11.1940  ,Singing Teacher
 voting-detailssecond-semi-final,2017,Kyiv,Austria,A,Christian Ude,male,28.09.1967  ,Journalist
 voting-detailssecond-semi-final,2017,Kyiv,Belarus,A,---,female,29.05.1975  ,Main Specialist of the Department of Concert and Festival Projects of Ministry of Culture
-voting-detailssecond-semi-final,2017,Kyiv,Belarus,B,Ludmila Kuts,female,15.10.1959  ,singer
+voting-detailssecond-semi-final,2017,Kyiv,Belarus,B,Ludmila Kuts,female,15.10.1959  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Belarus,C,Victoria Aleshko,female,4.05.1980  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Belarus,D,Alexey Gross,male,25.09.1989  ,Singer
-voting-detailssecond-semi-final,2017,Kyiv,Bulgaria,E,Nelly Rangelova,female,15.09.1958  ,pop singer
-voting-detailssecond-semi-final,2017,Kyiv,Croatia,A,Tihomir Preradovic,male,6.04.1960  ,music producer and composer
-voting-detailssecond-semi-final,2017,Kyiv,Croatia,B,Dino Jelusic,male,4.06.1992  ,singer
-voting-detailssecond-semi-final,2017,Kyiv,Croatia,C,Saï¿½a Lozar,male,12.02.1980  ,singer
-voting-detailssecond-semi-final,2017,Kyiv,Croatia,D,Ivana Kindl,female,18.01.1978  ,singer
-voting-detailssecond-semi-final,2017,Kyiv,Croatia,E,Sanja Doleï¿½al,female,9.05.1963  ,singer
-voting-detailssecond-semi-final,2017,Kyiv,Denmark,A,Sys Bjerre,female,15.03.1985  ,Songwriter and singer
+voting-detailssecond-semi-final,2017,Kyiv,Bulgaria,E,Nelly Rangelova,female,15.09.1958  ,pop Singer
+voting-detailssecond-semi-final,2017,Kyiv,Croatia,A,Tihomir Preradovic,male,6.04.1960  ,Music Producer and Composer
+voting-detailssecond-semi-final,2017,Kyiv,Croatia,B,Dino Jelusic,male,4.06.1992  ,Singer
+voting-detailssecond-semi-final,2017,Kyiv,Croatia,C,Saï¿½a Lozar,male,12.02.1980  ,Singer
+voting-detailssecond-semi-final,2017,Kyiv,Croatia,D,Ivana Kindl,female,18.01.1978  ,Singer
+voting-detailssecond-semi-final,2017,Kyiv,Croatia,E,Sanja Doleï¿½al,female,9.05.1963  ,Singer
+voting-detailssecond-semi-final,2017,Kyiv,Denmark,A,Sys Bjerre,female,15.03.1985  ,Songwriter and Singer
 voting-detailssecond-semi-final,2017,Kyiv,Denmark,B,Anders ï¿½hrstrï¿½m,male,28.09.1973  ,Songwriter & Singer
-voting-detailssecond-semi-final,2017,Kyiv,Denmark,C,Monique,female,16.02.1966  ,Songwriter & singer
+voting-detailssecond-semi-final,2017,Kyiv,Denmark,C,Monique,female,16.02.1966  ,Songwriter & Singer
 voting-detailssecond-semi-final,2017,Kyiv,Denmark,E,Cisilia,female,19.12.1998  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Estonia,A,Olavi Paide,male,8.04.1970  ,TV producer
 voting-detailssecond-semi-final,2017,Kyiv,Estonia,B,Rasmus Rï¿½ndvee,male,28.11.1995  ,Singer
@@ -632,8 +632,8 @@ voting-detailssecond-semi-final,2017,Kyiv,Estonia,C,Getter Jaani,female,3.02.199
 voting-detailssecond-semi-final,2017,Kyiv,Estonia,D,Jakko Maltis,male,20.01.1980  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Estonia,E,Marju Lï¿½nik,female,7.09.1957  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,France,A,Antoine Gouiffes - Yan,male,13.08.1986  ,Marketing Director
-voting-detailssecond-semi-final,2017,Kyiv,France,B,Enea,female,20.05.1992  ,singer
-voting-detailssecond-semi-final,2017,Kyiv,France,C,Julien Gonï¿½alves,male,19.11.1985  ,Music journalist
+voting-detailssecond-semi-final,2017,Kyiv,France,B,Enea,female,20.05.1992  ,Singer
+voting-detailssecond-semi-final,2017,Kyiv,France,C,Julien Gonï¿½alves,male,19.11.1985  ,Music Journalist
 voting-detailssecond-semi-final,2017,Kyiv,France,D,Steven Bellery,male,13.06.1986  ,Music Expert
 voting-detailssecond-semi-final,2017,Kyiv,France,E,Hï¿½dia Charni,female,17.05.1982  ,Culture and Music Journalist / TV Host
 voting-detailssecond-semi-final,2017,Kyiv,Germany,A,Nicole,female,25.10.1964  ,Singer
@@ -642,43 +642,43 @@ voting-detailssecond-semi-final,2017,Kyiv,Germany,C,Adel Tawil,male,15.08.1978  
 voting-detailssecond-semi-final,2017,Kyiv,Germany,D,Wincent Weiss,male,21.01.1993  ,Singer/Model
 voting-detailssecond-semi-final,2017,Kyiv,Germany,E,Boogieman,male,20.08.1966  ,Music Producer
 voting-detailssecond-semi-final,2017,Kyiv,Ireland,B,Suzanne Doyle,female,20.03.1968  ,Music industry consultant
-voting-detailssecond-semi-final,2017,Kyiv,Ireland,D,Dayl Cronin,male,8.12.1993  ,Singer/musician
+voting-detailssecond-semi-final,2017,Kyiv,Ireland,D,Dayl Cronin,male,8.12.1993  ,Singer/Musician
 voting-detailssecond-semi-final,2017,Kyiv,Israel,A,Tal Sondak,male,23.07.1976  ,Singer and Musician
 voting-detailssecond-semi-final,2017,Kyiv,Israel,B,Noy Alooshe,male,13.08.1979  ,Music Producer and Radio DJ
 voting-detailssecond-semi-final,2017,Kyiv,Israel,C,Kobi Oshrat,male,15.04.1944  ,Composer and Conductor
 voting-detailssecond-semi-final,2017,Kyiv,Israel,D,Ronit Rolland,female,20.05.1966  ,Musician and Singer Songwriter
 voting-detailssecond-semi-final,2017,Kyiv,Lithuania,A,Vytenis Pauliukaitis,male,8.04.1949  ,Director of TV programmes and entertainment events
-voting-detailssecond-semi-final,2017,Kyiv,Lithuania,B,Giedre Kilciauskiene,female,6.01.1979  ,singer
-voting-detailssecond-semi-final,2017,Kyiv,Lithuania,C,Viktorija Navickaite,female,29.12.1901  ,journalist
-voting-detailssecond-semi-final,2017,Kyiv,Lithuania,D,Rafailas Karpis,male,10.04.1983  ,singer
-voting-detailssecond-semi-final,2017,Kyiv,Lithuania,E,Vaidas Statckevicius,male,30.04.1976  ,Music producer
+voting-detailssecond-semi-final,2017,Kyiv,Lithuania,B,Giedre Kilciauskiene,female,6.01.1979  ,Singer
+voting-detailssecond-semi-final,2017,Kyiv,Lithuania,C,Viktorija Navickaite,female,29.12.1901  ,Journalist
+voting-detailssecond-semi-final,2017,Kyiv,Lithuania,D,Rafailas Karpis,male,10.04.1983  ,Singer
+voting-detailssecond-semi-final,2017,Kyiv,Lithuania,E,Vaidas Statckevicius,male,30.04.1976  ,Music Producer
 voting-detailssecond-semi-final,2017,Kyiv,Malta,A,Kevin,male,18.11.1978  ,Principal Trumpet Malta Philharmonic Orchestra
 voting-detailssecond-semi-final,2017,Kyiv,Malta,B,Whitney,female,22.05.1996  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Malta,C,Karl Bonaci,male,28.03.1971  ,TV Director
 voting-detailssecond-semi-final,2017,Kyiv,Malta,D,Chiara,female,25.09.1976  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Malta,E,Mark Spiteri Lucas,male,22.06.1977  ,Teacher/Musician/Band Leader/Song Writer/Arranger
-voting-detailssecond-semi-final,2017,Kyiv,Fyr-macedonia,B,Kalina Velkovska,female,4.08.1984  ,singer
+voting-detailssecond-semi-final,2017,Kyiv,Fyr-macedonia,B,Kalina Velkovska,female,4.08.1984  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Fyr-macedonia,C,Marko Mark,male,24.10.1986  ,Radio DJ
-voting-detailssecond-semi-final,2017,Kyiv,Fyr-macedonia,D,Silvi,female,4.01.1965  ,singer
-voting-detailssecond-semi-final,2017,Kyiv,Fyr-macedonia,E,Antonija Gigovska,female,21.01.2001  ,singer
+voting-detailssecond-semi-final,2017,Kyiv,Fyr-macedonia,D,Silvi,female,4.01.1965  ,Singer
+voting-detailssecond-semi-final,2017,Kyiv,Fyr-macedonia,E,Antonija Gigovska,female,21.01.2001  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Norway,A,Big Daddy Karsten,male,12.08.1988  ,Rapper/ Copywriter
 voting-detailssecond-semi-final,2017,Kyiv,Norway,B,DivaDean,male,4.03.1971  ,Dragartist
 voting-detailssecond-semi-final,2017,Kyiv,Norway,C,Janne Monsen Tveit,female,8.06.1991  ,Editor
 voting-detailssecond-semi-final,2017,Kyiv,Norway,E,Erland Bakke,male,29.10.1978  ,Artis Manager
 voting-detailssecond-semi-final,2017,Kyiv,Romania,A,Luminita Anghel,female,17.10.1968  ,artist
 voting-detailssecond-semi-final,2017,Kyiv,Romania,C,Tavi Colen,male,9.10.1967  ,artist
-voting-detailssecond-semi-final,2017,Kyiv,Romania,E,Cezar the voice,male,18.02.1980  ,pop-opera singer
+voting-detailssecond-semi-final,2017,Kyiv,Romania,E,Cezar the voice,male,18.02.1980  ,pop-opera Singer
 voting-detailssecond-semi-final,2017,Kyiv,San-marino,A,Fabrizio Raggi,male,13.02.1974  ,Artist
 voting-detailssecond-semi-final,2017,Kyiv,San-marino,B,Roberto Fabbri,male,23.03.1974  ,Guitarist
-voting-detailssecond-semi-final,2017,Kyiv,San-marino,C,Monica Sarti,female,19.04.1988  ,Soprano singer
+voting-detailssecond-semi-final,2017,Kyiv,San-marino,C,Monica Sarti,female,19.04.1988  ,Soprano Singer
 voting-detailssecond-semi-final,2017,Kyiv,San-marino,D,Dorian Pazzini,male,5.01.1977  ,Singer and guitarist
 voting-detailssecond-semi-final,2017,Kyiv,San-marino,E,Susanna Sacchi,female,30.01.1988  ,Singer
-voting-detailssecond-semi-final,2017,Kyiv,Serbia,A,Ivana Peters,female,22.08.1974  ,composer and singer
-voting-detailssecond-semi-final,2017,Kyiv,Serbia,B,Tanja Banjanin,female,25.06.1969  ,singer
-voting-detailssecond-semi-final,2017,Kyiv,Serbia,C,Vojislav Vojkan Borisavljevic,male,5.05.1947  ,composer
-voting-detailssecond-semi-final,2017,Kyiv,Serbia,D,Mili,male,29.01.1969  ,singer and composer
+voting-detailssecond-semi-final,2017,Kyiv,Serbia,A,Ivana Peters,female,22.08.1974  ,Composer and Singer
+voting-detailssecond-semi-final,2017,Kyiv,Serbia,B,Tanja Banjanin,female,25.06.1969  ,Singer
+voting-detailssecond-semi-final,2017,Kyiv,Serbia,C,Vojislav Vojkan Borisavljevic,male,5.05.1947  ,Composer
+voting-detailssecond-semi-final,2017,Kyiv,Serbia,D,Mili,male,29.01.1969  ,Singer and Composer
 voting-detailssecond-semi-final,2017,Kyiv,Serbia,E,Ana Stajdohor,female,24.11.1979  ,Singer
-voting-detailssecond-semi-final,2017,Kyiv,Switzerland,C,Daniela Simons,female,3.05.1961  ,singer
+voting-detailssecond-semi-final,2017,Kyiv,Switzerland,C,Daniela Simons,female,3.05.1961  ,Singer
 voting-detailssecond-semi-final,2017,Kyiv,Switzerland,E,Jean-Marie Fontana,male,9.09.1957  ,Artist and A&R Consultant
 voting-detailssecond-semi-final,2017,Kyiv,The-netherlands,A,John Ewbank,male,6.12.1968  ,Songwriter / Producer
 voting-detailssecond-semi-final,2017,Kyiv,Ukraine,C,Yana Pryadko,female,30.05.1982  ,Musical producer
@@ -696,45 +696,45 @@ voting-detailsgrand-final,2017,Kyiv,Austria,A,Christian Ude,male,28.09.1967  ,Jo
 voting-detailsgrand-final,2017,Kyiv,Azerbaijan,A,Aleksandr Sharovskiy,male,10.02.1948  ,theatre director
 voting-detailsgrand-final,2017,Kyiv,Azerbaijan,B,Afak Malikova,female,18.01.1947  ,artistic director
 voting-detailsgrand-final,2017,Kyiv,Belarus,A,---,female,29.05.1975  ,Main Specialist of the Department of Concert and Festival Projects of Ministry of Culture
-voting-detailsgrand-final,2017,Kyiv,Belarus,B,Ludmila Kuts,female,15.10.1959  ,singer
+voting-detailsgrand-final,2017,Kyiv,Belarus,B,Ludmila Kuts,female,15.10.1959  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Belarus,C,Victoria Aleshko,female,4.05.1980  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Belarus,D,Alexey Gross,male,25.09.1989  ,Singer
-voting-detailsgrand-final,2017,Kyiv,Belgium,A,Kevin Cocco,male,21.08.1987  ,Teacher/singer/song composer/Communication officer
-voting-detailsgrand-final,2017,Kyiv,Belgium,B,Typh Barrow,female,10.05.1987  ,Singer/author of lyrics/composer
+voting-detailsgrand-final,2017,Kyiv,Belgium,A,Kevin Cocco,male,21.08.1987  ,Teacher/Singer/song Composer/Communication officer
+voting-detailsgrand-final,2017,Kyiv,Belgium,B,Typh Barrow,female,10.05.1987  ,Singer/author of lyrics/Composer
 voting-detailsgrand-final,2017,Kyiv,Belgium,C,Jean-Franï¿½ois Pottier,male,16.02.1978  ,Head of Music Nostalgie Belgique
 voting-detailsgrand-final,2017,Kyiv,Belgium,D,Etienne Baffrey,male,13.06.1964  ,Founder and director of radio antipode/ Teacher at IAD-Radio
 voting-detailsgrand-final,2017,Kyiv,Belgium,E,Mia Lena,female,22.01.1998  ,Singer/Student
-voting-detailsgrand-final,2017,Kyiv,Bulgaria,E,Nelly Rangelova,female,15.09.1958  ,pop singer
-voting-detailsgrand-final,2017,Kyiv,Croatia,A,Tihomir Preradovic,male,6.04.1960  ,music producer and composer
-voting-detailsgrand-final,2017,Kyiv,Croatia,B,Dino Jelusic,male,4.06.1992  ,singer
-voting-detailsgrand-final,2017,Kyiv,Croatia,C,Saï¿½a Lozar,male,12.02.1980  ,singer
-voting-detailsgrand-final,2017,Kyiv,Croatia,D,Ivana Kindl,female,18.01.1978  ,singer
-voting-detailsgrand-final,2017,Kyiv,Croatia,E,Sanja Doleï¿½al,female,9.05.1963  ,singer
+voting-detailsgrand-final,2017,Kyiv,Bulgaria,E,Nelly Rangelova,female,15.09.1958  ,pop Singer
+voting-detailsgrand-final,2017,Kyiv,Croatia,A,Tihomir Preradovic,male,6.04.1960  ,Music Producer and Composer
+voting-detailsgrand-final,2017,Kyiv,Croatia,B,Dino Jelusic,male,4.06.1992  ,Singer
+voting-detailsgrand-final,2017,Kyiv,Croatia,C,Saï¿½a Lozar,male,12.02.1980  ,Singer
+voting-detailsgrand-final,2017,Kyiv,Croatia,D,Ivana Kindl,female,18.01.1978  ,Singer
+voting-detailsgrand-final,2017,Kyiv,Croatia,E,Sanja Doleï¿½al,female,9.05.1963  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Cyprus,A,Stavros Stavrou,male,10.05.1988  ,Lyricist
-voting-detailsgrand-final,2017,Kyiv,Cyprus,B,Tasos Evaggelou,male,16.09.1979  ,Radio producer/journalist
+voting-detailsgrand-final,2017,Kyiv,Cyprus,B,Tasos Evaggelou,male,16.09.1979  ,Radio producer/Journalist
 voting-detailsgrand-final,2017,Kyiv,Cyprus,C,Eleni Sidera,female,18.02.1980  ,Radio producer/Actress
 voting-detailsgrand-final,2017,Kyiv,Cyprus,D,Stella Georgiadou,female,5.04.1969  ,Perfomer/Singer
 voting-detailsgrand-final,2017,Kyiv,Cyprus,E,Yiannis Toumazis,male,31.07.1960  ,Director NiMAC/ Assistant Professor Frederick University/ Chair of the Board State Theater of Cyprus
 voting-detailsgrand-final,2017,Kyiv,Czech-republic,A,Janis Sidovskï¿½,male,21.01.1968  ,producer
-voting-detailsgrand-final,2017,Kyiv,Czech-republic,B,Eddie Stoilow,male,12.10.1980  ,music producer
+voting-detailsgrand-final,2017,Kyiv,Czech-republic,B,Eddie Stoilow,male,12.10.1980  ,Music Producer
 voting-detailsgrand-final,2017,Kyiv,Czech-republic,E,Karel Hodr,male,21.01.1947  ,Music editor
-voting-detailsgrand-final,2017,Kyiv,Denmark,A,Sys Bjerre,female,15.03.1985  ,Songwriter and singer
+voting-detailsgrand-final,2017,Kyiv,Denmark,A,Sys Bjerre,female,15.03.1985  ,Songwriter and Singer
 voting-detailsgrand-final,2017,Kyiv,Denmark,B,Anders ï¿½hrstrï¿½m,male,28.09.1973  ,Songwriter & Singer
-voting-detailsgrand-final,2017,Kyiv,Denmark,C,Monique,female,16.02.1966  ,Songwriter & singer
+voting-detailsgrand-final,2017,Kyiv,Denmark,C,Monique,female,16.02.1966  ,Songwriter & Singer
 voting-detailsgrand-final,2017,Kyiv,Denmark,E,Cisilia,female,19.12.1998  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Estonia,A,Olavi Paide,male,8.04.1970  ,TV producer
 voting-detailsgrand-final,2017,Kyiv,Estonia,B,Rasmus Rï¿½ndvee,male,28.11.1995  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Estonia,C,Getter Jaani,female,3.02.1993  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Estonia,D,Jakko Maltis,male,20.01.1980  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Estonia,E,Marju Lï¿½nik,female,7.09.1957  ,Singer
-voting-detailsgrand-final,2017,Kyiv,Finland,A,Iisa,female,9.08.1979  ,singer-songwriter
+voting-detailsgrand-final,2017,Kyiv,Finland,A,Iisa,female,9.08.1979  ,Singer/Songwriter
 voting-detailsgrand-final,2017,Kyiv,Finland,B,Jonas Olsson,male,10.06.1981  ,producer/songwriter
 voting-detailsgrand-final,2017,Kyiv,Finland,C,Marcus Sjï¿½strï¿½m,male,19.02.1970  ,Music Director
 voting-detailsgrand-final,2017,Kyiv,Finland,D,Vicky,female,10.11.1958  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Finland,E,Kashwell,male,8.06.1994  ,Music Producer
 voting-detailsgrand-final,2017,Kyiv,France,A,Antoine Gouiffes - Yan,male,13.08.1986  ,Marketing Director
-voting-detailsgrand-final,2017,Kyiv,France,B,Enea,female,20.05.1992  ,singer
-voting-detailsgrand-final,2017,Kyiv,France,C,Julien Gonï¿½alves,male,19.11.1985  ,Music journalist
+voting-detailsgrand-final,2017,Kyiv,France,B,Enea,female,20.05.1992  ,Singer
+voting-detailsgrand-final,2017,Kyiv,France,C,Julien Gonï¿½alves,male,19.11.1985  ,Music Journalist
 voting-detailsgrand-final,2017,Kyiv,France,D,Steven Bellery,male,13.06.1986  ,Music Expert
 voting-detailsgrand-final,2017,Kyiv,France,E,Hï¿½dia Charni,female,17.05.1982  ,Culture and Music Journalist / TV Host
 voting-detailsgrand-final,2017,Kyiv,Georgia,A,Medea Kavtaradze,female,11.04.1974  ,Vocal Coach
@@ -750,14 +750,14 @@ voting-detailsgrand-final,2017,Kyiv,Germany,E,Boogieman,male,20.08.1966  ,Music 
 voting-detailsgrand-final,2017,Kyiv,Greece,A,Xenia Ghali,female,14.08.1989  ,Composer and producer
 voting-detailsgrand-final,2017,Kyiv,Greece,B,Vicky Gerothodorou,female,1.11.1965  ,Lyricist
 voting-detailsgrand-final,2017,Kyiv,Greece,C,Dimitris Ougarezos,male,9.02.1980  ,Radio producer
-voting-detailsgrand-final,2017,Kyiv,Greece,D,Akis Anastasiadis,male,21.05.1972  ,Music producer
+voting-detailsgrand-final,2017,Kyiv,Greece,D,Akis Anastasiadis,male,21.05.1972  ,Music Producer
 voting-detailsgrand-final,2017,Kyiv,Greece,E,Aris Petrakis,male,18.11.1993  ,Performer
-voting-detailsgrand-final,2017,Kyiv,Iceland,A,Helga Mï¿½ller,female,12.05.1957  ,Professional singer and flightattendant for Icelandair.
+voting-detailsgrand-final,2017,Kyiv,Iceland,A,Helga Mï¿½ller,female,12.05.1957  ,Professional Singer and flightattendant for Icelandair.
 voting-detailsgrand-final,2017,Kyiv,Iceland,B,Hildur Guï¿½nï¿½,female,30.09.1975  ,Musician and Music teacher.
 voting-detailsgrand-final,2017,Kyiv,Iceland,D,Pï¿½tur ï¿½rn,male,21.10.1971  ,Musician
 voting-detailsgrand-final,2017,Kyiv,Iceland,E,Stefanï¿½a,female,20.08.1992  ,Musician
 voting-detailsgrand-final,2017,Kyiv,Ireland,B,Suzanne Doyle,female,20.03.1968  ,Music industry consultant
-voting-detailsgrand-final,2017,Kyiv,Ireland,D,Dayl Cronin,male,8.12.1993  ,Singer/musician
+voting-detailsgrand-final,2017,Kyiv,Ireland,D,Dayl Cronin,male,8.12.1993  ,Singer/Musician
 voting-detailsgrand-final,2017,Kyiv,Israel,A,Tal Sondak,male,23.07.1976  ,Singer and Musician
 voting-detailsgrand-final,2017,Kyiv,Israel,B,Noy Alooshe,male,13.08.1979  ,Music Producer and Radio DJ
 voting-detailsgrand-final,2017,Kyiv,Israel,C,Kobi Oshrat,male,15.04.1944  ,Composer and Conductor
@@ -766,14 +766,14 @@ voting-detailsgrand-final,2017,Kyiv,Italy,B,Antonello,male,5.07.1985  ,Musician
 voting-detailsgrand-final,2017,Kyiv,Italy,C,Giusy Cascio,female,30.04.1975  ,Journalist
 voting-detailsgrand-final,2017,Kyiv,Italy,D,Chiara Di Giambattista,female,7.07.1974  ,Television author and screenwriter
 voting-detailsgrand-final,2017,Kyiv,Latvia,A,Janis Ozols,male,1.11.1980  ,conductor
-voting-detailsgrand-final,2017,Kyiv,Latvia,B,Ieva Akuratere,female,22.04.1958  ,singer
+voting-detailsgrand-final,2017,Kyiv,Latvia,B,Ieva Akuratere,female,22.04.1958  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Latvia,C,Kaspars Ansons,male,19.03.1982  ,music record producer
-voting-detailsgrand-final,2017,Kyiv,Latvia,E,Ruta Duduma,female,9.06.1991  ,jazz musician
+voting-detailsgrand-final,2017,Kyiv,Latvia,E,Ruta Duduma,female,9.06.1991  ,jazz Musician
 voting-detailsgrand-final,2017,Kyiv,Lithuania,A,Vytenis Pauliukaitis,male,8.04.1949  ,Director of TV programmes and entertainment events
-voting-detailsgrand-final,2017,Kyiv,Lithuania,B,Giedre Kilciauskiene,female,6.01.1979  ,singer
-voting-detailsgrand-final,2017,Kyiv,Lithuania,C,Viktorija Navickaite,female,29.12.1901  ,journalist
-voting-detailsgrand-final,2017,Kyiv,Lithuania,D,Rafailas Karpis,male,10.04.1983  ,singer
-voting-detailsgrand-final,2017,Kyiv,Lithuania,E,Vaidas Statckevicius,male,30.04.1976  ,Music producer
+voting-detailsgrand-final,2017,Kyiv,Lithuania,B,Giedre Kilciauskiene,female,6.01.1979  ,Singer
+voting-detailsgrand-final,2017,Kyiv,Lithuania,C,Viktorija Navickaite,female,29.12.1901  ,Journalist
+voting-detailsgrand-final,2017,Kyiv,Lithuania,D,Rafailas Karpis,male,10.04.1983  ,Singer
+voting-detailsgrand-final,2017,Kyiv,Lithuania,E,Vaidas Statckevicius,male,30.04.1976  ,Music Producer
 voting-detailsgrand-final,2017,Kyiv,Malta,A,Kevin,male,18.11.1978  ,Principal Trumpet Malta Philharmonic Orchestra
 voting-detailsgrand-final,2017,Kyiv,Malta,B,Whitney,female,22.05.1996  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Malta,C,Karl Bonaci,male,28.03.1971  ,TV Director
@@ -784,48 +784,48 @@ voting-detailsgrand-final,2017,Kyiv,Moldova,B,Nelly Ciobanu,female,28.10.1974  ,
 voting-detailsgrand-final,2017,Kyiv,Moldova,C,Valeria Barbas,female,26.02.1984  ,Artist
 voting-detailsgrand-final,2017,Kyiv,Moldova,D,Angela Socolov,female,8.01.1973  ,Musician
 voting-detailsgrand-final,2017,Kyiv,Moldova,E,Denis Zubov,male,10.07.1978  ,Producer
-voting-detailsgrand-final,2017,Kyiv,Montenegro,B,Branislav Bane Nedovicï¿½,male,24.04.1985  ,singer and musician
+voting-detailsgrand-final,2017,Kyiv,Montenegro,B,Branislav Bane Nedovicï¿½,male,24.04.1985  ,Singer and Musician
 voting-detailsgrand-final,2017,Kyiv,Montenegro,C,Ivana Pekicï¿½,female,29.01.1989  ,Solo singing professor
 voting-detailsgrand-final,2017,Kyiv,Montenegro,D,Dras<U+030C>ko Djurovicï¿½,male,7.11.1962  ,TV and Movie director
 voting-detailsgrand-final,2017,Kyiv,Montenegro,E,Dragan Bulajic,male,19.02.1969  ,music manager
-voting-detailsgrand-final,2017,Kyiv,Fyr-macedonia,B,Kalina Velkovska,female,4.08.1984  ,singer
+voting-detailsgrand-final,2017,Kyiv,Fyr-macedonia,B,Kalina Velkovska,female,4.08.1984  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Fyr-macedonia,C,Marko Mark,male,24.10.1986  ,Radio DJ
-voting-detailsgrand-final,2017,Kyiv,Fyr-macedonia,D,Silvi,female,4.01.1965  ,singer
-voting-detailsgrand-final,2017,Kyiv,Fyr-macedonia,E,Antonija Gigovska,female,21.01.2001  ,singer
+voting-detailsgrand-final,2017,Kyiv,Fyr-macedonia,D,Silvi,female,4.01.1965  ,Singer
+voting-detailsgrand-final,2017,Kyiv,Fyr-macedonia,E,Antonija Gigovska,female,21.01.2001  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Norway,A,Big Daddy Karsten,male,12.08.1988  ,Rapper/ Copywriter
 voting-detailsgrand-final,2017,Kyiv,Norway,B,DivaDean,male,4.03.1971  ,Dragartist
 voting-detailsgrand-final,2017,Kyiv,Norway,C,Janne Monsen Tveit,female,8.06.1991  ,Editor
 voting-detailsgrand-final,2017,Kyiv,Norway,E,Erland Bakke,male,29.10.1978  ,Artis Manager
-voting-detailsgrand-final,2017,Kyiv,Poland,B,Magda Steczkowska,female,21.09.1975  ,singer
+voting-detailsgrand-final,2017,Kyiv,Poland,B,Magda Steczkowska,female,21.09.1975  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Poland,D,Marek Dutkiewicz,male,26.05.1969  ,Lyricist
-voting-detailsgrand-final,2017,Kyiv,Poland,E,Magdalena Tul,female,29.04.1980  ,singer
+voting-detailsgrand-final,2017,Kyiv,Poland,E,Magdalena Tul,female,29.04.1980  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Portugal,C,Inï¿½s Meneses,female,26.11.1971  ,Radialist
 voting-detailsgrand-final,2017,Kyiv,Portugal,D,Celina da Piedade,female,9.06.1978  ,Musician
 voting-detailsgrand-final,2017,Kyiv,Romania,A,Luminita Anghel,female,17.10.1968  ,artist
 voting-detailsgrand-final,2017,Kyiv,Romania,C,Tavi Colen,male,9.10.1967  ,artist
-voting-detailsgrand-final,2017,Kyiv,Romania,E,Cezar the voice,male,18.02.1980  ,pop-opera singer
+voting-detailsgrand-final,2017,Kyiv,Romania,E,Cezar the voice,male,18.02.1980  ,pop-opera Singer
 voting-detailsgrand-final,2017,Kyiv,San-marino,A,Fabrizio Raggi,male,13.02.1974  ,Artist
-voting-detailsgrand-final,2017,Kyiv,San-marino,B,Monica Sarti,female,19.04.1988  ,Soprano singer
+voting-detailsgrand-final,2017,Kyiv,San-marino,B,Monica Sarti,female,19.04.1988  ,Soprano Singer
 voting-detailsgrand-final,2017,Kyiv,San-marino,C,Dorian Pazzini,male,5.01.1977  ,Singer and guitarist
 voting-detailsgrand-final,2017,Kyiv,San-marino,D,Susanna Sacchi,female,30.01.1988  ,Singer
 voting-detailsgrand-final,2017,Kyiv,San-marino,E,Elia Conti,male,6.05.1988  ,Trumpet player
-voting-detailsgrand-final,2017,Kyiv,Serbia,A,Ivana Peters,female,22.08.1974  ,composer and singer
-voting-detailsgrand-final,2017,Kyiv,Serbia,B,Tanja Banjanin,female,25.06.1969  ,singer
-voting-detailsgrand-final,2017,Kyiv,Serbia,C,Vojislav Vojkan Borisavljevic,male,5.05.1947  ,composer
-voting-detailsgrand-final,2017,Kyiv,Serbia,D,Mili,male,29.01.1969  ,singer and composer
+voting-detailsgrand-final,2017,Kyiv,Serbia,A,Ivana Peters,female,22.08.1974  ,Composer and Singer
+voting-detailsgrand-final,2017,Kyiv,Serbia,B,Tanja Banjanin,female,25.06.1969  ,Singer
+voting-detailsgrand-final,2017,Kyiv,Serbia,C,Vojislav Vojkan Borisavljevic,male,5.05.1947  ,Composer
+voting-detailsgrand-final,2017,Kyiv,Serbia,D,Mili,male,29.01.1969  ,Singer and Composer
 voting-detailsgrand-final,2017,Kyiv,Serbia,E,Ana Stajdohor,female,24.11.1979  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Slovenia,A,Nika Zorjan,female,3.12.1992  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Spain,A,David Civera,male,8.01.1979  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Spain,B,Paula Rojo,female,16.07.1990  ,Singer
-voting-detailsgrand-final,2017,Kyiv,Spain,C,Rubï¿½n,male,11.01.1982  ,music/composer/ musical producer
+voting-detailsgrand-final,2017,Kyiv,Spain,C,Rubï¿½n,male,11.01.1982  ,music/Composer/ musical producer
 voting-detailsgrand-final,2017,Kyiv,Spain,D,Antonio Hueso,male,29.03.1976  ,Radio Dj
 voting-detailsgrand-final,2017,Kyiv,Spain,E,Natalia,female,10.12.1982  ,Singer/ songwriter
 voting-detailsgrand-final,2017,Kyiv,Sweden,A,Michael,male,23.08.1964  ,Musiceditor
 voting-detailsgrand-final,2017,Kyiv,Sweden,B,Wiktoria,female,8.11.1996  ,Artist
-voting-detailsgrand-final,2017,Kyiv,Sweden,C,Maria Marcus,female,2.01.1980  ,Music producer/composer
-voting-detailsgrand-final,2017,Kyiv,Sweden,D,Nils,male,12.08.1980  ,Music producer/composer
+voting-detailsgrand-final,2017,Kyiv,Sweden,C,Maria Marcus,female,2.01.1980  ,Music Producer/Composer
+voting-detailsgrand-final,2017,Kyiv,Sweden,D,Nils,male,12.08.1980  ,Music Producer/Composer
 voting-detailsgrand-final,2017,Kyiv,Sweden,E,Andreas Jon Johnson,male,22.03.1970  ,Singer/Songwriter
-voting-detailsgrand-final,2017,Kyiv,Switzerland,C,Daniela Simons,female,3.05.1961  ,singer
+voting-detailsgrand-final,2017,Kyiv,Switzerland,C,Daniela Simons,female,3.05.1961  ,Singer
 voting-detailsgrand-final,2017,Kyiv,Switzerland,E,Jean-Marie Fontana,male,9.09.1957  ,Artist and A&R Consultant
 voting-detailsgrand-final,2017,Kyiv,The-netherlands,A,John Ewbank,male,6.12.1968  ,Songwriter / Producer
 voting-detailsgrand-final,2017,Kyiv,Ukraine,C,Yana Pryadko,female,30.05.1982  ,Musical producer
@@ -834,13 +834,13 @@ voting-detailsgrand-final,2017,Kyiv,United-kingdom,B,Rokhsan Heydari,female,2.06
 voting-detailsgrand-final,2017,Kyiv,United-kingdom,C,Kipper Eldridge,male,19.03.1962  ,Music Producer / Musician
 voting-detailsgrand-final,2017,Kyiv,United-kingdom,D,Jay London,male,17.06.1987  ,Radio DJ
 voting-detailsgrand-final,2017,Kyiv,United-kingdom,E,Mary Hammond,female,16.11.1940  ,Singing Teacher
-voting-detailssecond-semi-final,2017,Kyiv,Romania,D,Paula Seling,female,25.12.1979  ,Singer-songwriter
-voting-detailsgrand-final,2017,Kyiv,Romania,D,Paula Seling,female,25.12.1979  ,Singer-songwriter
-voting-detailsfirst-semi-final,2017,Kyiv,Montenegro,A,Bozo Bulatovicï¿½,male,11.05.1972  ,musician
-voting-detailsgrand-final,2017,Kyiv,Montenegro,A,Bozo Bulatovicï¿½,male,11.05.1972  ,musician
+voting-detailssecond-semi-final,2017,Kyiv,Romania,D,Paula Seling,female,25.12.1979  ,Singer/Songwriter
+voting-detailsgrand-final,2017,Kyiv,Romania,D,Paula Seling,female,25.12.1979  ,Singer/Songwriter
+voting-detailsfirst-semi-final,2017,Kyiv,Montenegro,A,Bozo Bulatovicï¿½,male,11.05.1972  ,Musician
+voting-detailsgrand-final,2017,Kyiv,Montenegro,A,Bozo Bulatovicï¿½,male,11.05.1972  ,Musician
 voting-detailsfirst-semi-final,2018,Lisbon,Armenia,B,Aramo,male,24.01.1968  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Ukraine,A,Denys Zhupnyk,male,24.04.1988  ,Radio host
-voting-detailsgrand-final,2018,Lisbon,Lithuania,A,Jurga,female,10.02.1980  ,singer
+voting-detailsgrand-final,2018,Lisbon,Lithuania,A,Jurga,female,10.02.1980  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Croatia,D,Muc,male,9.09.1961  ,Music Producer
 voting-detailsgrand-final,2018,Lisbon,Greece,B,Yiannis Nikoletopoulos,male,10.06.1964  ,Artist (percussioner)
 voting-detailsgrand-final,2018,Lisbon,Malta,A,Dorian Cassar,male,18.03.1981  ,Radio & TV Presenter
@@ -851,10 +851,10 @@ voting-detailsgrand-final,2018,Lisbon,Fyr-macedonia,A,Ile Spasev,male,23.01.1984
 voting-detailsgrand-final,2018,Lisbon,San-marino,B,Ilaria Ercolani,female,31.08.1994  ,Former ESC Artist
 voting-detailsgrand-final,2018,Lisbon,Ireland,B,Niamh Kavanagh,female,13.02.1968  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Armenia,A,Armen Galyan,male,28.03.1981  ,Stylist
-voting-detailsgrand-final,2018,Lisbon,Israel,D,Gal Uchovsky,male,27.09.1958  ,Music journalist
-voting-detailsgrand-final,2018,Lisbon,Hungary,A,James Karï¿½csony,male,19.08.1951  ,composer
+voting-detailsgrand-final,2018,Lisbon,Israel,D,Gal Uchovsky,male,27.09.1958  ,Music Journalist
+voting-detailsgrand-final,2018,Lisbon,Hungary,A,James Karï¿½csony,male,19.08.1951  ,Composer
 voting-detailsgrand-final,2018,Lisbon,Lithuania,B,Miss Sheep,female,12.09.1986  ,Singer
-voting-detailsgrand-final,2018,Lisbon,Serbia,E,Bane Garavi sokak,male,15.02.1960  ,composer
+voting-detailsgrand-final,2018,Lisbon,Serbia,E,Bane Garavi sokak,male,15.02.1960  ,Composer
 voting-detailsgrand-final,2018,Lisbon,Russia,A,Yana Rudkovskaya,female,2.01.1975  ,Producer
 voting-detailsgrand-final,2018,Lisbon,Sweden,E,Robert,male,2.02.1976  ,Head of Music
 voting-detailsfirst-semi-final,2018,Lisbon,Bulgaria,A,Aleksey Vasilev,male,23.09.1986  ,music editor
@@ -862,16 +862,16 @@ voting-detailsfirst-semi-final,2018,Lisbon,Cyprus,E,Pavlos Palechorites,male,20.
 voting-detailsgrand-final,2018,Lisbon,Ukraine,C,Vitalii Klymov,male,4.09.1966  ,Producer
 voting-detailsgrand-final,2018,Lisbon,Slovenia,A,Raiven,female,26.04.1996  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Greece,E,Margo Enepekidi,female,27.02.1981  ,Performer
-voting-detailsgrand-final,2018,Lisbon,Hungary,B,Balï¿½zs Bolyki,male,31.07.1974  ,gospel singer
-voting-detailsgrand-final,2018,Lisbon,Latvia,A,Valts Puce,male,7.02.1962  ,composer
-voting-detailsgrand-final,2018,Lisbon,Russia,C,Vladimir Matetsky,male,14.05.1952  ,Singer-songwriter
+voting-detailsgrand-final,2018,Lisbon,Hungary,B,Balï¿½zs Bolyki,male,31.07.1974  ,gospel Singer
+voting-detailsgrand-final,2018,Lisbon,Latvia,A,Valts Puce,male,7.02.1962  ,Composer
+voting-detailsgrand-final,2018,Lisbon,Russia,C,Vladimir Matetsky,male,14.05.1952  ,Singer/Songwriter
 voting-detailsgrand-final,2018,Lisbon,Ukraine,B,Artur Danielyan,male,26.05.1981  ,Sound producer
-voting-detailsfirst-semi-final,2018,Lisbon,Azerbaijan,A,Faig,male,29.12.1971  ,Azerbaijani pop singer
-voting-detailsfirst-semi-final,2018,Lisbon,Azerbaijan,B,Mubariz Tagiyev,male,30.01.1948  ,Azerbaijani singer
+voting-detailsfirst-semi-final,2018,Lisbon,Azerbaijan,A,Faig,male,29.12.1971  ,Azerbaijani pop Singer
+voting-detailsfirst-semi-final,2018,Lisbon,Azerbaijan,B,Mubariz Tagiyev,male,30.01.1948  ,Azerbaijani Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Bulgaria,D,Maya Dimitrova Raykova,female,5.05.1963  ,producer of jazz
-voting-detailsgrand-final,2018,Lisbon,Hungary,E,Szabï¿½ Zï¿½,male,12.06.1974  ,composer
-voting-detailsfirst-semi-final,2018,Lisbon,Bulgaria,E,Kalin Lyubenov Veliov,male,18.06.1973  ,musician
-voting-detailsgrand-final,2018,Lisbon,Israel,E,Hagai Uzan,male,17.06.1977  ,Music journalist
+voting-detailsgrand-final,2018,Lisbon,Hungary,E,Szabï¿½ Zï¿½,male,12.06.1974  ,Composer
+voting-detailsfirst-semi-final,2018,Lisbon,Bulgaria,E,Kalin Lyubenov Veliov,male,18.06.1973  ,Musician
+voting-detailsgrand-final,2018,Lisbon,Israel,E,Hagai Uzan,male,17.06.1977  ,Music Journalist
 voting-detailsgrand-final,2018,Lisbon,Lithuania,C,Mindaugas Urbaitis,male,1.06.1952  ,Composer
 voting-detailsgrand-final,2018,Lisbon,Spain,A,Rafa Cano,male,17.02.1966  ,radio conductor
 voting-detailsgrand-final,2018,Lisbon,Ireland,A,Tom Dunne,male,19.04.1961  ,Musician
@@ -881,19 +881,19 @@ voting-detailsgrand-final,2018,Lisbon,Slovenia,D,Mitja Bobic,male,19.11.1983  ,M
 voting-detailsgrand-final,2018,Lisbon,Spain,C,Miriam,female,30.09.1996  ,Artist
 voting-detailsgrand-final,2018,Lisbon,Portugal,A,Armando Teixeira,male,13.02.1968  ,Composer
 voting-detailsgrand-final,2018,Lisbon,Sweden,C,Arantxa,female,17.11.1991  ,Host
-voting-detailsfirst-semi-final,2018,Lisbon,Bulgaria,B,Mary,female,10.02.1973  ,singer
-voting-detailsgrand-final,2018,Lisbon,Iceland,D,Vï¿½dï¿½s Hervï¿½r,female,8.07.1982  ,singer
+voting-detailsfirst-semi-final,2018,Lisbon,Bulgaria,B,Mary,female,10.02.1973  ,Singer
+voting-detailsgrand-final,2018,Lisbon,Iceland,D,Vï¿½dï¿½s Hervï¿½r,female,8.07.1982  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Latvia,B,Makree,male,15.05.1995  ,Music Producer
-voting-detailsgrand-final,2018,Lisbon,Latvia,C,Aminata,female,9.01.1993  ,singer
+voting-detailsgrand-final,2018,Lisbon,Latvia,C,Aminata,female,9.01.1993  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Switzerland,A,--,male,8.11.1980  ,Producer
 voting-detailsgrand-final,2018,Lisbon,The-netherlands,A,Arno Krabman,male,19.03.1982  ,Producer
 voting-detailsgrand-final,2018,Lisbon,Ukraine,E,Khrystyna Soloviy,female,17.01.1993  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Azerbaijan,C,Ilaha Efendiyeva-Xalilova,female,6.07.1982  ,Young soloist of the Azerbaijan State Academic Opera and Ballet Theater
 voting-detailsgrand-final,2018,Lisbon,Ireland,D,Aoife Barry,female,26.05.1983  ,Music and culture asst. editor
-voting-detailsgrand-final,2018,Lisbon,Israel,B,Dafna Lustig,female,18.10.1979  ,Music journalist and radio DJ
-voting-detailsgrand-final,2018,Lisbon,Greece,D,Ilenia Williams,female,2.02.1990  ,Music journalist
+voting-detailsgrand-final,2018,Lisbon,Israel,B,Dafna Lustig,female,18.10.1979  ,Music Journalist and radio DJ
+voting-detailsgrand-final,2018,Lisbon,Greece,D,Ilenia Williams,female,2.02.1990  ,Music Journalist
 voting-detailsgrand-final,2018,Lisbon,The-netherlands,D,Rick Vol,male,6.03.1963  ,Composer
-voting-detailsfirst-semi-final,2018,Lisbon,Albania,A,Elton Deda,male,5.04.1973  ,Music producer / pianist
+voting-detailsfirst-semi-final,2018,Lisbon,Albania,A,Elton Deda,male,5.04.1973  ,Music Producer / pianist
 voting-detailsfirst-semi-final,2018,Lisbon,Albania,B,Ben Andoni,male,29.06.1966  ,Journalist
 voting-detailsfirst-semi-final,2018,Lisbon,Albania,C,Bojken Lako,male,25.05.1975  ,TV and theater director
 voting-detailsfirst-semi-final,2018,Lisbon,Albania,D,Rosela Gjylbegu,female,13.03.1987  ,Singer
@@ -906,28 +906,28 @@ voting-detailsfirst-semi-final,2018,Lisbon,Austria,B,Hannes Tschï¿½rtz,male,25.0
 voting-detailsfirst-semi-final,2018,Lisbon,Austria,C,Ina Regen,female,29.09.1984  ,Singer/Songwriter
 voting-detailsfirst-semi-final,2018,Lisbon,Austria,D,NAthan Trent,male,4.04.1992  ,Singer/Songwriter
 voting-detailsfirst-semi-final,2018,Lisbon,Austria,E,Florian Cojocaru,male,12.03.1980  ,Songwriter / Producer / Label-Owner
-voting-detailsfirst-semi-final,2018,Lisbon,Azerbaijan,D,Tunzala Qahraman,female,9.06.1948  ,jazz singer
+voting-detailsfirst-semi-final,2018,Lisbon,Azerbaijan,D,Tunzala Qahraman,female,9.06.1948  ,jazz Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Azerbaijan,E,Nurlana Cafarova,female,24.09.1988  ,TV presenter
 voting-detailsfirst-semi-final,2018,Lisbon,Belarus,A,Iskui Abalyan,female,23.12.1970  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Belarus,B,Alex Nabeev (group Atlantica),male,18.09.1973  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Belarus,C,Vladimir Bogdan,male,26.05.1980  ,TV abd Radio Host
 voting-detailsfirst-semi-final,2018,Lisbon,Belarus,D,Tatsiana Parhamovich,female,27.07.1967  ,Deputy head of Professional Arts Department of the Ministry of Kulture
 voting-detailsfirst-semi-final,2018,Lisbon,Belarus,E,Svetlana Statsenko,female,9.01.1966  ,Producer
-voting-detailsfirst-semi-final,2018,Lisbon,Belgium,A,Wouter Vander Veken,male,28.06.1988  ,music producer
-voting-detailsfirst-semi-final,2018,Lisbon,Belgium,B,Laura Tesoro,female,19.08.1996  ,artist/singer
-voting-detailsfirst-semi-final,2018,Lisbon,Belgium,C,Tom Dice,male,25.11.1989  ,singer-songwriter
-voting-detailsfirst-semi-final,2018,Lisbon,Belgium,D,Bob Savenberg,male,29.11.1961  ,songwriter/singer/musician/manager
+voting-detailsfirst-semi-final,2018,Lisbon,Belgium,A,Wouter Vander Veken,male,28.06.1988  ,Music Producer
+voting-detailsfirst-semi-final,2018,Lisbon,Belgium,B,Laura Tesoro,female,19.08.1996  ,artist/Singer
+voting-detailsfirst-semi-final,2018,Lisbon,Belgium,C,Tom Dice,male,25.11.1989  ,Singer/Songwriter
+voting-detailsfirst-semi-final,2018,Lisbon,Belgium,D,Bob Savenberg,male,29.11.1961  ,songwriter/Singer/Musician/manager
 voting-detailsfirst-semi-final,2018,Lisbon,Belgium,E,Nathalie Delporte,female,19.07.1975  ,radio-DJ
 voting-detailsfirst-semi-final,2018,Lisbon,Bulgaria,C,Lora Dimitrova Kozeva,female,12.01.1979  ,radio host
 voting-detailsfirst-semi-final,2018,Lisbon,Croatia,A,Lara Antic Prskalo,female,24.11.1984  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Croatia,B,Zdenka Kovacicek,female,16.01.1944  ,Singer
-voting-detailsfirst-semi-final,2018,Lisbon,Croatia,C,Gina Victoria Damjanovic,female,8.04.1993  ,singer/songwriter and radio host
+voting-detailsfirst-semi-final,2018,Lisbon,Croatia,C,Gina Victoria Damjanovic,female,8.04.1993  ,Singer/Songwriter and radio host
 voting-detailsfirst-semi-final,2018,Lisbon,Croatia,E,Lesique,male,30.01.1976  ,Musician/producer
 voting-detailsfirst-semi-final,2018,Lisbon,Cyprus,A,Elias Antoniades,male,23.08.1970  ,Lyricist /General Manager in an Advertising Agency
 voting-detailsfirst-semi-final,2018,Lisbon,Cyprus,B,Yiannis,male,31.12.1977  ,Journalist/Editor/Editor in Chief
 voting-detailsfirst-semi-final,2018,Lisbon,Cyprus,C,Kalliopi Kouroupi,female,15.09.1972  ,RRadio Producer/Account executive in advertising
 voting-detailsfirst-semi-final,2018,Lisbon,Cyprus,D,Demetra Georgiou,female,25.10.1988  ,Radio producer/Journalist
-voting-detailsfirst-semi-final,2018,Lisbon,Czech-republic,A,Ota Balage,male,9.11.1961  ,Musician composer conductor
+voting-detailsfirst-semi-final,2018,Lisbon,Czech-republic,A,Ota Balage,male,9.11.1961  ,Musician Composer conductor
 voting-detailsfirst-semi-final,2018,Lisbon,Czech-republic,B,Jan P. Muchow,male,21.06.1971  ,Producer Composer
 voting-detailsfirst-semi-final,2018,Lisbon,Czech-republic,C,Hana Biriczovï¿½,female,26.04.1984  ,Radio host
 voting-detailsfirst-semi-final,2018,Lisbon,Czech-republic,D,Berenika Kohoutovï¿½,female,15.02.1991  ,Singer Actress Blogger
@@ -939,63 +939,63 @@ voting-detailsfirst-semi-final,2018,Lisbon,Estonia,D,Karl Killing,male,11.07.200
 voting-detailsfirst-semi-final,2018,Lisbon,Estonia,E,Rainer Ild,male,24.01.1991  ,Artist
 voting-detailsfirst-semi-final,2018,Lisbon,Finland,A,Laura Marketta Vï¿½hï¿½hyyppï¿½,female,12.02.1981  ,Radio-Dj / Journalist
 voting-detailsfirst-semi-final,2018,Lisbon,Finland,B,Aija Puurtinen,female,19.08.1959  ,DMus Singer Musician
-voting-detailsfirst-semi-final,2018,Lisbon,Finland,C,Petri Laaksonen,male,7.08.1962  ,Singer-Songwriter
-voting-detailsfirst-semi-final,2018,Lisbon,Finland,D,Matias Veikko Olavi Keskiruokanen,male,19.07.1992  ,Producer /composer
-voting-detailsfirst-semi-final,2018,Lisbon,Finland,E,Vilma Alina,female,8.08.1993  ,singer-songwriter
-voting-detailsfirst-semi-final,2018,Lisbon,Greece,A,Nikos Graigos,male,8.11.1983  ,Artist (performer) and music producer
-voting-detailsfirst-semi-final,2018,Lisbon,Greece,B,Yiannis Nikoletopoulos,male,10.06.1964  ,Artist (percussioner) author of lyrics composer
+voting-detailsfirst-semi-final,2018,Lisbon,Finland,C,Petri Laaksonen,male,7.08.1962  ,Singer/Songwriter
+voting-detailsfirst-semi-final,2018,Lisbon,Finland,D,Matias Veikko Olavi Keskiruokanen,male,19.07.1992  ,Producer /Composer
+voting-detailsfirst-semi-final,2018,Lisbon,Finland,E,Vilma Alina,female,8.08.1993  ,Singer/Songwriter
+voting-detailsfirst-semi-final,2018,Lisbon,Greece,A,Nikos Graigos,male,8.11.1983  ,Artist (performer) and Music Producer
+voting-detailsfirst-semi-final,2018,Lisbon,Greece,B,Yiannis Nikoletopoulos,male,10.06.1964  ,Artist (percussioner) author of lyrics Composer
 voting-detailsfirst-semi-final,2018,Lisbon,Greece,C,Ares Anagnostopoulos,male,6.02.1978  ,Artists' manager
-voting-detailsfirst-semi-final,2018,Lisbon,Greece,D,Ilenia Williams,female,2.02.1990  ,Music journalist TV presenter radio producer
-voting-detailsfirst-semi-final,2018,Lisbon,Greece,E,Margo Enepekidi,female,27.02.1981  ,Performer musician composer
-voting-detailsfirst-semi-final,2018,Lisbon,Iceland,A,Hlynur Ben,male,30.08.1982  ,singer/songwriter
-voting-detailsfirst-semi-final,2018,Lisbon,Iceland,B,Hannes Friï¿½bjarnarson,male,8.11.1975  ,musician
-voting-detailsfirst-semi-final,2018,Lisbon,Iceland,C,Jï¿½n Rafnsson,male,17.06.1958  ,musician
-voting-detailsfirst-semi-final,2018,Lisbon,Iceland,D,Vï¿½dï¿½s Hervï¿½r,female,8.07.1982  ,singer songwriter
+voting-detailsfirst-semi-final,2018,Lisbon,Greece,D,Ilenia Williams,female,2.02.1990  ,Music Journalist TV presenter radio producer
+voting-detailsfirst-semi-final,2018,Lisbon,Greece,E,Margo Enepekidi,female,27.02.1981  ,Performer Musician Composer
+voting-detailsfirst-semi-final,2018,Lisbon,Iceland,A,Hlynur Ben,male,30.08.1982  ,Singer/Songwriter
+voting-detailsfirst-semi-final,2018,Lisbon,Iceland,B,Hannes Friï¿½bjarnarson,male,8.11.1975  ,Musician
+voting-detailsfirst-semi-final,2018,Lisbon,Iceland,C,Jï¿½n Rafnsson,male,17.06.1958  ,Musician
+voting-detailsfirst-semi-final,2018,Lisbon,Iceland,D,Vï¿½dï¿½s Hervï¿½r,female,8.07.1982  ,Singer songwriter
 voting-detailsfirst-semi-final,2018,Lisbon,Iceland,E,Erla Jï¿½natans,female,4.09.1981  ,Singer and music teacher
 voting-detailsfirst-semi-final,2018,Lisbon,Ireland,A,Tom Dunne,male,19.04.1961  ,Musician
 voting-detailsfirst-semi-final,2018,Lisbon,Ireland,B,Niamh Kavanagh,female,13.02.1968  ,Singer Eurovision 1993 winner
 voting-detailsfirst-semi-final,2018,Lisbon,Ireland,C,Crossy,male,19.12.1987  ,Radio presenter/producer
 voting-detailsfirst-semi-final,2018,Lisbon,Ireland,D,Aoife Barry,female,26.05.1983  ,Music and culture asst. editor TheJournal.ie
 voting-detailsfirst-semi-final,2018,Lisbon,Ireland,E,Kenneth Giles,male,25.02.1990  ,Creative director choreographer performer
-voting-detailsfirst-semi-final,2018,Lisbon,Israel,A,Aya Korem,female,1.07.1980  ,Pop/rock singer and songwriter
+voting-detailsfirst-semi-final,2018,Lisbon,Israel,A,Aya Korem,female,1.07.1980  ,Pop/rock Singer and songwriter
 voting-detailsfirst-semi-final,2018,Lisbon,Israel,B,Eliko,male,17.05.1977  ,Radio DJ
-voting-detailsfirst-semi-final,2018,Lisbon,Israel,C,Dafna Lustig,female,18.10.1979  ,Music journalist and radio DJ TV host
+voting-detailsfirst-semi-final,2018,Lisbon,Israel,C,Dafna Lustig,female,18.10.1979  ,Music Journalist and radio DJ TV host
 voting-detailsfirst-semi-final,2018,Lisbon,Israel,D,Yaakov Lamai,male,25.09.1962  ,Musical Producer and Arranger
-voting-detailsfirst-semi-final,2018,Lisbon,Israel,E,Gal Uchovsky,male,27.09.1958  ,Music journalist former Star is Born (music talent show) judge
-voting-detailsfirst-semi-final,2018,Lisbon,Lithuania,A,Jurga,female,10.02.1980  ,singer
+voting-detailsfirst-semi-final,2018,Lisbon,Israel,E,Gal Uchovsky,male,27.09.1958  ,Music Journalist former Star is Born (music talent show) judge
+voting-detailsfirst-semi-final,2018,Lisbon,Lithuania,A,Jurga,female,10.02.1980  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Lithuania,B,Miss Sheep,female,12.09.1986  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Lithuania,C,Mindaugas Urbaitis,male,1.06.1952  ,Composer
 voting-detailsfirst-semi-final,2018,Lisbon,Lithuania,D,Leon Somov,male,22.02.1981  ,Composewr
-voting-detailsfirst-semi-final,2018,Lisbon,Lithuania,E,Lauras Luciunas,male,25.10.1979  ,Music producer
+voting-detailsfirst-semi-final,2018,Lisbon,Lithuania,E,Lauras Luciunas,male,25.10.1979  ,Music Producer
 voting-detailsfirst-semi-final,2018,Lisbon,Fyr-macedonia,A,Ile Spasev,male,23.01.1984  ,music teacher
-voting-detailsfirst-semi-final,2018,Lisbon,Fyr-macedonia,B,Ana Pandevska,female,25.11.1985  ,composer
-voting-detailsfirst-semi-final,2018,Lisbon,Fyr-macedonia,C,Miodrag Vrchakovski,male,27.11.1946  ,songwriter and a radio journalist
-voting-detailsfirst-semi-final,2018,Lisbon,Fyr-macedonia,D,Kristijan Gabroski,male,15.04.1967  ,composer and music producer
-voting-detailsfirst-semi-final,2018,Lisbon,Fyr-macedonia,E,Stefanija Leshkova - Zelenkovska,female,25.02.1964  ,Musicologyst and music journalist
+voting-detailsfirst-semi-final,2018,Lisbon,Fyr-macedonia,B,Ana Pandevska,female,25.11.1985  ,Composer
+voting-detailsfirst-semi-final,2018,Lisbon,Fyr-macedonia,C,Miodrag Vrchakovski,male,27.11.1946  ,songwriter and a radio Journalist
+voting-detailsfirst-semi-final,2018,Lisbon,Fyr-macedonia,D,Kristijan Gabroski,male,15.04.1967  ,Composer and Music Producer
+voting-detailsfirst-semi-final,2018,Lisbon,Fyr-macedonia,E,Stefanija Leshkova - Zelenkovska,female,25.02.1964  ,Musicologyst and music Journalist
 voting-detailsfirst-semi-final,2018,Lisbon,Portugal,A,Armando Teixeira,male,13.02.1968  ,Composer
-voting-detailsfirst-semi-final,2018,Lisbon,Portugal,B,Daniela Onis,female,4.03.1984  ,composer and singer
-voting-detailsfirst-semi-final,2018,Lisbon,Portugal,C,Anabela,female,22.09.1976  ,singer and actress
-voting-detailsfirst-semi-final,2018,Lisbon,Portugal,D,Benjamim,male,24.05.1986  ,composer and producer
-voting-detailsfirst-semi-final,2018,Lisbon,Portugal,E,Peu Madureira,male,3.07.1978  ,singer
+voting-detailsfirst-semi-final,2018,Lisbon,Portugal,B,Daniela Onis,female,4.03.1984  ,Composer and Singer
+voting-detailsfirst-semi-final,2018,Lisbon,Portugal,C,Anabela,female,22.09.1976  ,Singer and actress
+voting-detailsfirst-semi-final,2018,Lisbon,Portugal,D,Benjamim,male,24.05.1986  ,Composer and producer
+voting-detailsfirst-semi-final,2018,Lisbon,Portugal,E,Peu Madureira,male,3.07.1978  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Spain,A,Rafa Cano,male,17.02.1966  ,radio conductor
-voting-detailsfirst-semi-final,2018,Lisbon,Spain,B,Brisa Fenoy,female,20.02.1991  ,singer/composer/musical producer
+voting-detailsfirst-semi-final,2018,Lisbon,Spain,B,Brisa Fenoy,female,20.02.1991  ,Singer/Composer/musical producer
 voting-detailsfirst-semi-final,2018,Lisbon,Spain,C,Miriam,female,30.09.1996  ,Artist
 voting-detailsfirst-semi-final,2018,Lisbon,Spain,D,Roi,male,30.09.1993  ,Singer
-voting-detailsfirst-semi-final,2018,Lisbon,Spain,E,Conchita,female,3.03.1981  ,Singer/ composer/ song writer
+voting-detailsfirst-semi-final,2018,Lisbon,Spain,E,Conchita,female,3.03.1981  ,Singer/ Composer/ song writer
 voting-detailsfirst-semi-final,2018,Lisbon,Switzerland,A,--,male,8.11.1980  ,Producer
 voting-detailsfirst-semi-final,2018,Lisbon,Switzerland,B,Alizï¿½ Oswald,female,10.05.1988  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Switzerland,C,Michael Kinzer,male,29.06.1972  ,Boardmember Swiss Music Export and Fondation pour la chanson et les musiques actuelles
-voting-detailsfirst-semi-final,2018,Lisbon,Switzerland,D,Eva Bellomo,female,22.12.1960  ,singer
+voting-detailsfirst-semi-final,2018,Lisbon,Switzerland,D,Eva Bellomo,female,22.12.1960  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,Switzerland,E,Nickless,male,5.10.1995  ,Singer
 voting-detailsfirst-semi-final,2018,Lisbon,United-kingdom,A,Richard Beadle,male,4.06.1975  ,Musical Director / Orchestrator / Composer
 voting-detailsfirst-semi-final,2018,Lisbon,United-kingdom,B,Michelle Escoffery,female,3.06.1974  ,Singer / Songwriter
 voting-detailsfirst-semi-final,2018,Lisbon,United-kingdom,C,Natalie Shay,female,26.11.1998  ,Musician / Artist
 voting-detailsfirst-semi-final,2018,Lisbon,United-kingdom,D,Toby Lawrence,male,3.01.1995  ,Club & Radio DJ
 voting-detailsfirst-semi-final,2018,Lisbon,United-kingdom,E,Eady Crawford,female,9.01.1998  ,Singer
-voting-detailssecond-semi-final,2018,Lisbon,Australia,A,Richard Wilkins,male,19.06.1954  ,Radio DJ / entertainment journalist
+voting-detailssecond-semi-final,2018,Lisbon,Australia,A,Richard Wilkins,male,19.06.1954  ,Radio DJ / entertainment Journalist
 voting-detailssecond-semi-final,2018,Lisbon,Australia,B,Jordan Raskopoulos,female,25.01.1982  ,Comedian/Singer / Writer
 voting-detailssecond-semi-final,2018,Lisbon,Australia,C,L-FRESH The LION,male,12.10.1988  ,Artist
-voting-detailssecond-semi-final,2018,Lisbon,Australia,D,Zan Rowe,female,22.03.1978  ,Radio broadcaster / Music journalist
+voting-detailssecond-semi-final,2018,Lisbon,Australia,D,Zan Rowe,female,22.03.1978  ,Radio broadcaster / Music Journalist
 voting-detailssecond-semi-final,2018,Lisbon,Australia,E,Milie Millgate,female,6.06.1972  ,Executive Producer
 voting-detailssecond-semi-final,2018,Lisbon,Denmark,A,Bryan Rice,male,29.05.1978  ,Singer
 voting-detailssecond-semi-final,2018,Lisbon,Denmark,B,Sï¿½s Fenger,female,2.12.1961  ,Singer and songwriter
@@ -1004,7 +1004,7 @@ voting-detailssecond-semi-final,2018,Lisbon,Denmark,D,Linda Andrews,female,19.10
 voting-detailssecond-semi-final,2018,Lisbon,Denmark,E,Lasse Meling,male,6.07.1998  ,Singer and Songwriter
 voting-detailssecond-semi-final,2018,Lisbon,France,A,Elodie Suigo,female,13.09.1975  ,Radio Host
 voting-detailssecond-semi-final,2018,Lisbon,France,B,Ehla,female,13.05.1988  ,Artist - Singer
-voting-detailssecond-semi-final,2018,Lisbon,France,C,Clï¿½mentine Boulard,female,22.10.1987  ,Music and TV journalist
+voting-detailssecond-semi-final,2018,Lisbon,France,C,Clï¿½mentine Boulard,female,22.10.1987  ,Music and TV Journalist
 voting-detailssecond-semi-final,2018,Lisbon,France,D,Benjamin Marciano,male,18.03.1980  ,Artistic Director
 voting-detailssecond-semi-final,2018,Lisbon,France,E,Cyril Taieb,male,2.02.1982  ,Artist
 voting-detailssecond-semi-final,2018,Lisbon,Georgia,A,David Evgenidze,male,2.12.1958  ,Composer/Musician
@@ -1012,25 +1012,25 @@ voting-detailssecond-semi-final,2018,Lisbon,Georgia,B,Zurab Ramishvili,male,2.12
 voting-detailssecond-semi-final,2018,Lisbon,Georgia,C,Eliso Shengelia,female,8.09.1962  ,Musical Producer
 voting-detailssecond-semi-final,2018,Lisbon,Georgia,D,Salome Bakuradze,female,9.07.1984  ,Singer
 voting-detailssecond-semi-final,2018,Lisbon,Georgia,E,Kakhaber Grigalashvili,male,4.07.1977  ,Singer
-voting-detailssecond-semi-final,2018,Lisbon,Germany,A,Mary Roos,female,9.01.1949  ,singer
-voting-detailssecond-semi-final,2018,Lisbon,Germany,B,Max Giesinger,male,3.10.1988  ,singer/songwriter
+voting-detailssecond-semi-final,2018,Lisbon,Germany,A,Mary Roos,female,9.01.1949  ,Singer
+voting-detailssecond-semi-final,2018,Lisbon,Germany,B,Max GieSinger,male,3.10.1988  ,Singer/Songwriter
 voting-detailssecond-semi-final,2018,Lisbon,Germany,C,Sascha Stadler,male,22.02.1973  ,artist manager
-voting-detailssecond-semi-final,2018,Lisbon,Germany,D,Mike Singer,male,20.01.2000  ,singer/songwriter
-voting-detailssecond-semi-final,2018,Lisbon,Germany,E,Lotte,female,14.07.1995  ,singer/songwriter
-voting-detailssecond-semi-final,2018,Lisbon,Hungary,A,James Karï¿½csony,male,19.08.1951  ,composer
-voting-detailssecond-semi-final,2018,Lisbon,Hungary,B,Balï¿½zs Bolyki,male,31.07.1974  ,gospel singer
-voting-detailssecond-semi-final,2018,Lisbon,Hungary,C,Szandi,female,7.07.1976  ,singer
-voting-detailssecond-semi-final,2018,Lisbon,Hungary,D,Lilla Vincze,female,5.06.1961  ,singer
-voting-detailssecond-semi-final,2018,Lisbon,Hungary,E,Szabï¿½ Zï¿½,male,12.06.1974  ,composer
+voting-detailssecond-semi-final,2018,Lisbon,Germany,D,Mike Singer,male,20.01.2000  ,Singer/Songwriter
+voting-detailssecond-semi-final,2018,Lisbon,Germany,E,Lotte,female,14.07.1995  ,Singer/Songwriter
+voting-detailssecond-semi-final,2018,Lisbon,Hungary,A,James Karï¿½csony,male,19.08.1951  ,Composer
+voting-detailssecond-semi-final,2018,Lisbon,Hungary,B,Balï¿½zs Bolyki,male,31.07.1974  ,gospel Singer
+voting-detailssecond-semi-final,2018,Lisbon,Hungary,C,Szandi,female,7.07.1976  ,Singer
+voting-detailssecond-semi-final,2018,Lisbon,Hungary,D,Lilla Vincze,female,5.06.1961  ,Singer
+voting-detailssecond-semi-final,2018,Lisbon,Hungary,E,Szabï¿½ Zï¿½,male,12.06.1974  ,Composer
 voting-detailssecond-semi-final,2018,Lisbon,Italy,A,Antonella Nesi,female,26.06.1969  ,Journalist
 voting-detailssecond-semi-final,2018,Lisbon,Italy,B,Sandro Comini,male,24.11.1959  ,conductor
-voting-detailssecond-semi-final,2018,Lisbon,Italy,C,Silvia Gavarotti,female,3.04.1965  ,singer
+voting-detailssecond-semi-final,2018,Lisbon,Italy,C,Silvia Gavarotti,female,3.04.1965  ,Singer
 voting-detailssecond-semi-final,2018,Lisbon,Italy,D,Matteo Catalano,male,16.04.1969  ,author
-voting-detailssecond-semi-final,2018,Lisbon,Italy,E,Barbara Mosconi,female,27.06.1969  ,journalist
-voting-detailssecond-semi-final,2018,Lisbon,Latvia,A,Valts Puce,male,7.02.1962  ,composer
+voting-detailssecond-semi-final,2018,Lisbon,Italy,E,Barbara Mosconi,female,27.06.1969  ,Journalist
+voting-detailssecond-semi-final,2018,Lisbon,Latvia,A,Valts Puce,male,7.02.1962  ,Composer
 voting-detailssecond-semi-final,2018,Lisbon,Latvia,B,Makree,male,15.05.1995  ,Music Producer
-voting-detailssecond-semi-final,2018,Lisbon,Latvia,C,Aminata,female,9.01.1993  ,singer
-voting-detailssecond-semi-final,2018,Lisbon,Latvia,D,Annija Putnina,female,21.01.1987  ,singer/ actress/ head of musical theatre department in Riga Cathedral Choir School
+voting-detailssecond-semi-final,2018,Lisbon,Latvia,C,Aminata,female,9.01.1993  ,Singer
+voting-detailssecond-semi-final,2018,Lisbon,Latvia,D,Annija Putnina,female,21.01.1987  ,Singer/ actress/ head of musical theatre department in Riga Cathedral Choir School
 voting-detailssecond-semi-final,2018,Lisbon,Latvia,E,Agnese Cimuï¿½ka,female,6.07.1979  ,CEO at Music Export Latvia
 voting-detailssecond-semi-final,2018,Lisbon,Malta,A,Dorian Cassar,male,18.03.1981  ,Radio & TV Presenter
 voting-detailssecond-semi-final,2018,Lisbon,Malta,B,Olwyn Jo Saliba,female,29.10.1983  ,Producer/Video Editor
@@ -1053,17 +1053,17 @@ voting-detailssecond-semi-final,2018,Lisbon,Norway,C,Ingeborg Walther,female,26.
 voting-detailssecond-semi-final,2018,Lisbon,Norway,D,Hanne Haugsand,female,14.10.1975  ,Artist
 voting-detailssecond-semi-final,2018,Lisbon,Norway,E,Guri Schanke,female,14.12.1961  ,Artist
 voting-detailssecond-semi-final,2018,Lisbon,Poland,A,Dorota Szpetkowska,female,21.02.1959  ,TV director
-voting-detailssecond-semi-final,2018,Lisbon,Poland,B,Michal Szpak,male,26.11.1990  ,singer
-voting-detailssecond-semi-final,2018,Lisbon,Poland,C,Natalia Szroeder,female,20.04.1995  ,singer
-voting-detailssecond-semi-final,2018,Lisbon,Poland,D,Slawomir Uniatowski,male,11.05.1985  ,singer
-voting-detailssecond-semi-final,2018,Lisbon,Romania,A,Nicu Patoi,male,12.02.1971  ,musician
+voting-detailssecond-semi-final,2018,Lisbon,Poland,B,Michal Szpak,male,26.11.1990  ,Singer
+voting-detailssecond-semi-final,2018,Lisbon,Poland,C,Natalia Szroeder,female,20.04.1995  ,Singer
+voting-detailssecond-semi-final,2018,Lisbon,Poland,D,Slawomir Uniatowski,male,11.05.1985  ,Singer
+voting-detailssecond-semi-final,2018,Lisbon,Romania,A,Nicu Patoi,male,12.02.1971  ,Musician
 voting-detailssecond-semi-final,2018,Lisbon,Romania,B,Anca Lupes,female,17.02.1968  ,Music Business Consultant
 voting-detailssecond-semi-final,2018,Lisbon,Romania,C,Sanda Cepraga,female,22.11.1951  ,Sound Director
-voting-detailssecond-semi-final,2018,Lisbon,Romania,D,Gabi Cotabita,male,1.11.1955  ,musician
+voting-detailssecond-semi-final,2018,Lisbon,Romania,D,Gabi Cotabita,male,1.11.1955  ,Musician
 voting-detailssecond-semi-final,2018,Lisbon,Romania,E,Al Mike,male,9.11.1965  ,Composer & Music Producer
 voting-detailssecond-semi-final,2018,Lisbon,Russia,A,Yana Rudkovskaya,female,2.01.1975  ,Producer
 voting-detailssecond-semi-final,2018,Lisbon,Russia,B,Alexandra Vorobyova,female,24.12.1989  ,Singer
-voting-detailssecond-semi-final,2018,Lisbon,Russia,C,Vladimir Matetsky,male,14.05.1952  ,Singer-songwriter
+voting-detailssecond-semi-final,2018,Lisbon,Russia,C,Vladimir Matetsky,male,14.05.1952  ,Singer/Songwriter
 voting-detailssecond-semi-final,2018,Lisbon,Russia,D,Sergei Mandrik,male,3.09.1973  ,Choreographer
 voting-detailssecond-semi-final,2018,Lisbon,Russia,E,Alexey Manuylov,male,22.10.1967  ,Radio Host
 voting-detailssecond-semi-final,2018,Lisbon,San-marino,A,Augusto Ciavatta,male,4.12.1963  ,Music teacher and organiser of international music events and competitions
@@ -1071,11 +1071,11 @@ voting-detailssecond-semi-final,2018,Lisbon,San-marino,B,Ilaria Ercolani,female,
 voting-detailssecond-semi-final,2018,Lisbon,San-marino,C,Veronica Conti,female,14.09.1998  ,Cello player
 voting-detailssecond-semi-final,2018,Lisbon,San-marino,D,Lo Strego,male,12.06.1989  ,Singer and songwriter
 voting-detailssecond-semi-final,2018,Lisbon,San-marino,E,Claudio Podeschi,male,24.07.1988  ,Trombonist
-voting-detailssecond-semi-final,2018,Lisbon,Serbia,A,Bojana Stamenov,female,24.06.1986  ,singer
-voting-detailssecond-semi-final,2018,Lisbon,Serbia,B,Dejan Cukic,male,4.11.1959  ,singer and composer
+voting-detailssecond-semi-final,2018,Lisbon,Serbia,A,Bojana Stamenov,female,24.06.1986  ,Singer
+voting-detailssecond-semi-final,2018,Lisbon,Serbia,B,Dejan Cukic,male,4.11.1959  ,Singer and Composer
 voting-detailssecond-semi-final,2018,Lisbon,Serbia,C,Tijana Miloï¿½evic,female,1.03.1978  ,concertmaster - Belgrade Philharmonic Orchestra.
-voting-detailssecond-semi-final,2018,Lisbon,Serbia,D,Rade Radivojevic,male,27.04.1949  ,composer
-voting-detailssecond-semi-final,2018,Lisbon,Serbia,E,Bane Garavi sokak,male,15.02.1960  ,composer
+voting-detailssecond-semi-final,2018,Lisbon,Serbia,D,Rade Radivojevic,male,27.04.1949  ,Composer
+voting-detailssecond-semi-final,2018,Lisbon,Serbia,E,Bane Garavi sokak,male,15.02.1960  ,Composer
 voting-detailssecond-semi-final,2018,Lisbon,Slovenia,A,Raiven,female,26.04.1996  ,Singer
 voting-detailssecond-semi-final,2018,Lisbon,Slovenia,B,Mistermarsh,male,20.02.1976  ,Composer
 voting-detailssecond-semi-final,2018,Lisbon,Slovenia,C,Nikola Sekulovic,male,25.12.1966  ,Musician
@@ -1096,7 +1096,7 @@ voting-detailssecond-semi-final,2018,Lisbon,Ukraine,B,Artur Danielyan,male,26.05
 voting-detailssecond-semi-final,2018,Lisbon,Ukraine,C,Vitalii Klymov,male,4.09.1966  ,Producer
 voting-detailssecond-semi-final,2018,Lisbon,Ukraine,D,Alloise,female,19.10.1984  ,Artist
 voting-detailssecond-semi-final,2018,Lisbon,Ukraine,E,Khrystyna Soloviy,female,17.01.1993  ,Singer
-voting-detailsgrand-final,2018,Lisbon,Albania,A,Elton Deda,male,5.04.1973  ,Music producer / pianist
+voting-detailsgrand-final,2018,Lisbon,Albania,A,Elton Deda,male,5.04.1973  ,Music Producer / pianist
 voting-detailsgrand-final,2018,Lisbon,Albania,B,Ben Andoni,male,29.06.1966  ,Journalist
 voting-detailsgrand-final,2018,Lisbon,Albania,C,Bojken Lako,male,25.05.1975  ,TV and theater director
 voting-detailsgrand-final,2018,Lisbon,Albania,D,Rosela Gjylbegu,female,13.03.1987  ,Singer
@@ -1106,38 +1106,38 @@ voting-detailsgrand-final,2018,Lisbon,Armenia,B,Aramo,male,24.01.1968  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Armenia,C,Manch,male,10.08.1972  ,Drummer
 voting-detailsgrand-final,2018,Lisbon,Armenia,D,Masha Mnjoyan,female,7.02.1995  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Armenia,E,Shushanik Arevshatyan,female,9.11.1963  ,Producer
-voting-detailsgrand-final,2018,Lisbon,Australia,A,Richard Wilkins,male,19.06.1954  ,Radio DJ / entertainment journalist
+voting-detailsgrand-final,2018,Lisbon,Australia,A,Richard Wilkins,male,19.06.1954  ,Radio DJ / entertainment Journalist
 voting-detailsgrand-final,2018,Lisbon,Australia,B,Jordan Raskopoulos,female,25.01.1982  ,Comedian/Singer / Writer
 voting-detailsgrand-final,2018,Lisbon,Australia,C,L-FRESH The LION,male,12.10.1988  ,Artist
-voting-detailsgrand-final,2018,Lisbon,Australia,D,Zan Rowe,female,22.03.1978  ,Radio broadcaster / Music journalist
+voting-detailsgrand-final,2018,Lisbon,Australia,D,Zan Rowe,female,22.03.1978  ,Radio broadcaster / Music Journalist
 voting-detailsgrand-final,2018,Lisbon,Australia,E,Milie Millgate,female,6.06.1972  ,Executive Producer
 voting-detailsgrand-final,2018,Lisbon,Austria,A,Monika Ballwein,female,14.10.1967  ,Singer/Producer/Vocalcoach/Composer
 voting-detailsgrand-final,2018,Lisbon,Austria,B,Hannes Tschï¿½rtz,male,25.06.1977  ,Founder and General Manager of Ink Music
 voting-detailsgrand-final,2018,Lisbon,Austria,C,Ina Regen,female,29.09.1984  ,Singer/Songwriter
 voting-detailsgrand-final,2018,Lisbon,Austria,D,NAthan Trent,male,4.04.1992  ,Singer/Songwriter
 voting-detailsgrand-final,2018,Lisbon,Austria,E,Florian Cojocaru,male,12.03.1980  ,Songwriter / Producer / Label-Owner
-voting-detailsgrand-final,2018,Lisbon,Azerbaijan,A,Faig,male,29.12.1971  ,Azerbaijani pop singer
-voting-detailsgrand-final,2018,Lisbon,Azerbaijan,B,Mubariz Tagiyev,male,30.01.1948  ,Azerbaijani singer
+voting-detailsgrand-final,2018,Lisbon,Azerbaijan,A,Faig,male,29.12.1971  ,Azerbaijani pop Singer
+voting-detailsgrand-final,2018,Lisbon,Azerbaijan,B,Mubariz Tagiyev,male,30.01.1948  ,Azerbaijani Singer
 voting-detailsgrand-final,2018,Lisbon,Azerbaijan,C,Ilaha Efendiyeva-Xalilova,female,6.07.1982  ,Young soloist of the Azerbaijan State Academic Opera and Ballet Theater
-voting-detailsgrand-final,2018,Lisbon,Azerbaijan,D,Tunzala Qahraman,female,9.06.1948  ,jazz singer
+voting-detailsgrand-final,2018,Lisbon,Azerbaijan,D,Tunzala Qahraman,female,9.06.1948  ,jazz Singer
 voting-detailsgrand-final,2018,Lisbon,Azerbaijan,E,Nurlana Cafarova,female,24.09.1988  ,TV presenter
 voting-detailsgrand-final,2018,Lisbon,Belarus,A,Iskui Abalyan,female,23.12.1970  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Belarus,B,Alex Nabeev (group Atlantica),male,18.09.1973  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Belarus,C,Vladimir Bogdan,male,26.05.1980  ,TV abd Radio Host
 voting-detailsgrand-final,2018,Lisbon,Belarus,D,Tatsiana Parhamovich,female,27.07.1967  ,Deputy head of Professional Arts Department of the Ministry of Kulture
 voting-detailsgrand-final,2018,Lisbon,Belarus,E,Svetlana Statsenko,female,9.01.1966  ,Producer
-voting-detailsgrand-final,2018,Lisbon,Belgium,A,Wouter Vander Veken,male,28.06.1988  ,music producer
-voting-detailsgrand-final,2018,Lisbon,Belgium,B,Laura Tesoro,female,19.08.1996  ,artist/singer
-voting-detailsgrand-final,2018,Lisbon,Belgium,C,Tom Dice,male,25.11.1989  ,singer-songwriter
-voting-detailsgrand-final,2018,Lisbon,Belgium,D,Bob Savenberg,male,29.11.1961  ,songwriter/singer/musician/manager
+voting-detailsgrand-final,2018,Lisbon,Belgium,A,Wouter Vander Veken,male,28.06.1988  ,Music Producer
+voting-detailsgrand-final,2018,Lisbon,Belgium,B,Laura Tesoro,female,19.08.1996  ,artist/Singer
+voting-detailsgrand-final,2018,Lisbon,Belgium,C,Tom Dice,male,25.11.1989  ,Singer/Songwriter
+voting-detailsgrand-final,2018,Lisbon,Belgium,D,Bob Savenberg,male,29.11.1961  ,songwriter/Singer/Musician/manager
 voting-detailsgrand-final,2018,Lisbon,Belgium,E,Nathalie Delporte,female,19.07.1975  ,radio-DJ
 voting-detailsgrand-final,2018,Lisbon,Bulgaria,A,Aleksey Vasilev,male,23.09.1986  ,music editor
-voting-detailsgrand-final,2018,Lisbon,Bulgaria,B,Mary,female,10.02.1973  ,singer
+voting-detailsgrand-final,2018,Lisbon,Bulgaria,B,Mary,female,10.02.1973  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Bulgaria,C,Lora Dimitrova Kozeva,female,12.01.1979  ,radio host
 voting-detailsgrand-final,2018,Lisbon,Bulgaria,D,Maya Dimitrova Raykova,female,5.05.1963  ,producer of jazz
-voting-detailsgrand-final,2018,Lisbon,Bulgaria,E,Kalin Lyubenov Veliov,male,18.06.1973  ,musician
+voting-detailsgrand-final,2018,Lisbon,Bulgaria,E,Kalin Lyubenov Veliov,male,18.06.1973  ,Musician
 voting-detailsgrand-final,2018,Lisbon,Croatia,A,Zdenka Kovacicek,female,16.01.1944  ,Singer
-voting-detailsgrand-final,2018,Lisbon,Croatia,B,Gina Victoria Damjanovic,female,8.04.1993  ,singer/songwriter and radio host
+voting-detailsgrand-final,2018,Lisbon,Croatia,B,Gina Victoria Damjanovic,female,8.04.1993  ,Singer/Songwriter and radio host
 voting-detailsgrand-final,2018,Lisbon,Croatia,C,Muc,male,9.09.1961  ,Music Producer
 voting-detailsgrand-final,2018,Lisbon,Croatia,D,Lesique,male,30.01.1976  ,Musician/producer
 voting-detailsgrand-final,2018,Lisbon,Croatia,E,Kornelije Hecimovic,male,22.08.1969  ,Radio Producer
@@ -1163,12 +1163,12 @@ voting-detailsgrand-final,2018,Lisbon,Estonia,D,Karl Killing,male,11.07.2001  ,A
 voting-detailsgrand-final,2018,Lisbon,Estonia,E,Rainer Ild,male,24.01.1991  ,Artist
 voting-detailsgrand-final,2018,Lisbon,Finland,A,Laura Marketta Vï¿½hï¿½hyyppï¿½,female,12.02.1981  ,Radio-Dj / Journalist
 voting-detailsgrand-final,2018,Lisbon,Finland,B,Aija Puurtinen,female,19.08.1959  ,DMus
-voting-detailsgrand-final,2018,Lisbon,Finland,C,Petri Laaksonen,male,7.08.1962  ,Singer-Songwriter
-voting-detailsgrand-final,2018,Lisbon,Finland,D,Matias Veikko Olavi Keskiruokanen,male,19.07.1992  ,Producer /composer
-voting-detailsgrand-final,2018,Lisbon,Finland,E,Vilma Alina,female,8.08.1993  ,singer-songwriter
+voting-detailsgrand-final,2018,Lisbon,Finland,C,Petri Laaksonen,male,7.08.1962  ,Singer/Songwriter
+voting-detailsgrand-final,2018,Lisbon,Finland,D,Matias Veikko Olavi Keskiruokanen,male,19.07.1992  ,Producer /Composer
+voting-detailsgrand-final,2018,Lisbon,Finland,E,Vilma Alina,female,8.08.1993  ,Singer/Songwriter
 voting-detailsgrand-final,2018,Lisbon,France,A,Elodie Suigo,female,13.09.1975  ,Radio Host
 voting-detailsgrand-final,2018,Lisbon,France,B,Ehla,female,13.05.1988  ,Artist - Singer
-voting-detailsgrand-final,2018,Lisbon,France,C,Clï¿½mentine Boulard,female,22.10.1987  ,Music and TV journalist
+voting-detailsgrand-final,2018,Lisbon,France,C,Clï¿½mentine Boulard,female,22.10.1987  ,Music and TV Journalist
 voting-detailsgrand-final,2018,Lisbon,France,D,Benjamin Marciano,male,18.03.1980  ,Artistic Director
 voting-detailsgrand-final,2018,Lisbon,France,E,Cyril Taieb,male,2.02.1982  ,Artist
 voting-detailsgrand-final,2018,Lisbon,Georgia,A,Zurab Ramishvili,male,2.12.1960  ,Jazz Musician
@@ -1176,30 +1176,30 @@ voting-detailsgrand-final,2018,Lisbon,Georgia,B,Eliso Shengelia,female,8.09.1962
 voting-detailsgrand-final,2018,Lisbon,Georgia,C,Salome Bakuradze,female,9.07.1984  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Georgia,D,Kakhaber Grigalashvili,male,4.07.1977  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Georgia,E,Mariam Ebralidze,female,29.08.1984  ,Singer
-voting-detailsgrand-final,2018,Lisbon,Germany,A,Mary Roos,female,9.01.1949  ,singer
-voting-detailsgrand-final,2018,Lisbon,Germany,B,Max Giesinger,male,3.10.1988  ,singer/songwriter
+voting-detailsgrand-final,2018,Lisbon,Germany,A,Mary Roos,female,9.01.1949  ,Singer
+voting-detailsgrand-final,2018,Lisbon,Germany,B,Max GieSinger,male,3.10.1988  ,Singer/Songwriter
 voting-detailsgrand-final,2018,Lisbon,Germany,C,Sascha Stadler,male,22.02.1973  ,artist manager
-voting-detailsgrand-final,2018,Lisbon,Germany,D,Mike Singer,male,20.01.2000  ,singer/songwriter
-voting-detailsgrand-final,2018,Lisbon,Germany,E,Lotte,female,14.07.1995  ,singer/songwriter
-voting-detailsgrand-final,2018,Lisbon,Greece,A,Nikos Graigos,male,8.11.1983  ,Artist (performer) and music producer
+voting-detailsgrand-final,2018,Lisbon,Germany,D,Mike Singer,male,20.01.2000  ,Singer/Songwriter
+voting-detailsgrand-final,2018,Lisbon,Germany,E,Lotte,female,14.07.1995  ,Singer/Songwriter
+voting-detailsgrand-final,2018,Lisbon,Greece,A,Nikos Graigos,male,8.11.1983  ,Artist (performer) and Music Producer
 voting-detailsgrand-final,2018,Lisbon,Greece,C,Ares Anagnostopoulos,male,6.02.1978  ,Artists' manager
-voting-detailsgrand-final,2018,Lisbon,Hungary,C,Szandi,female,7.07.1976  ,singer
-voting-detailsgrand-final,2018,Lisbon,Hungary,D,Lilla Vincze,female,5.06.1961  ,singer
-voting-detailsgrand-final,2018,Lisbon,Iceland,A,Hlynur Ben,male,30.08.1982  ,singer/songwriter
-voting-detailsgrand-final,2018,Lisbon,Iceland,B,Hannes Friï¿½bjarnarson,male,8.11.1975  ,musician
-voting-detailsgrand-final,2018,Lisbon,Iceland,C,Jï¿½n Rafnsson,male,17.06.1958  ,musician
+voting-detailsgrand-final,2018,Lisbon,Hungary,C,Szandi,female,7.07.1976  ,Singer
+voting-detailsgrand-final,2018,Lisbon,Hungary,D,Lilla Vincze,female,5.06.1961  ,Singer
+voting-detailsgrand-final,2018,Lisbon,Iceland,A,Hlynur Ben,male,30.08.1982  ,Singer/Songwriter
+voting-detailsgrand-final,2018,Lisbon,Iceland,B,Hannes Friï¿½bjarnarson,male,8.11.1975  ,Musician
+voting-detailsgrand-final,2018,Lisbon,Iceland,C,Jï¿½n Rafnsson,male,17.06.1958  ,Musician
 voting-detailsgrand-final,2018,Lisbon,Iceland,E,Erla Jï¿½natans,female,4.09.1981  ,Singer and music teacher
 voting-detailsgrand-final,2018,Lisbon,Ireland,C,Crossy,male,19.12.1987  ,Radio presenter/producer
 voting-detailsgrand-final,2018,Lisbon,Israel,A,Eliko,male,17.05.1977  ,Radio DJ
 voting-detailsgrand-final,2018,Lisbon,Israel,C,Yaakov Lamai,male,25.09.1962  ,Musical Producer and Arranger
 voting-detailsgrand-final,2018,Lisbon,Italy,A,Antonella Nesi,female,26.06.1969  ,Journalist
 voting-detailsgrand-final,2018,Lisbon,Italy,B,Sandro Comini,male,24.11.1959  ,conductor
-voting-detailsgrand-final,2018,Lisbon,Italy,C,Silvia Gavarotti,female,3.04.1965  ,singer
+voting-detailsgrand-final,2018,Lisbon,Italy,C,Silvia Gavarotti,female,3.04.1965  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Italy,D,Matteo Catalano,male,16.04.1969  ,author
-voting-detailsgrand-final,2018,Lisbon,Italy,E,Barbara Mosconi,female,27.06.1969  ,journalist
-voting-detailsgrand-final,2018,Lisbon,Latvia,D,Annija Putnina,female,21.01.1987  ,singer/ actress/ head of musical theatre department in Riga Cathedral Choir School
+voting-detailsgrand-final,2018,Lisbon,Italy,E,Barbara Mosconi,female,27.06.1969  ,Journalist
+voting-detailsgrand-final,2018,Lisbon,Latvia,D,Annija Putnina,female,21.01.1987  ,Singer/ actress/ head of musical theatre department in Riga Cathedral Choir School
 voting-detailsgrand-final,2018,Lisbon,Latvia,E,Agnese Cimuï¿½ka,female,6.07.1979  ,CEO at Music Export Latvia
-voting-detailsgrand-final,2018,Lisbon,Lithuania,E,Lauras Luciunas,male,25.10.1979  ,Music producer
+voting-detailsgrand-final,2018,Lisbon,Lithuania,E,Lauras Luciunas,male,25.10.1979  ,Music Producer
 voting-detailsgrand-final,2018,Lisbon,Malta,B,Olwyn Jo Saliba,female,29.10.1983  ,Producer/Video Editor
 voting-detailsgrand-final,2018,Lisbon,Malta,C,Alexander Kitcher,male,29.07.1967  ,Event Co-ordinator / Technical Director Valletta 2018 Foundation
 voting-detailsgrand-final,2018,Lisbon,Malta,D,Amber Bondin,female,26.05.1991  ,Profession-Music Artist
@@ -1214,27 +1214,27 @@ voting-detailsgrand-final,2018,Lisbon,Montenegro,B,Nina Zizic,female,20.04.1985 
 voting-detailsgrand-final,2018,Lisbon,Montenegro,C,Predrag Nedeljkovic,male,18.11.1973  ,Composer
 voting-detailsgrand-final,2018,Lisbon,Montenegro,D,Zoja Djurovic,female,5.04.1963  ,Director of the Art School for Music and Ballet VASA PAVIC u Podgorici
 voting-detailsgrand-final,2018,Lisbon,Montenegro,E,Senad Dresevic,male,10.02.1977  ,Composer
-voting-detailsgrand-final,2018,Lisbon,Fyr-macedonia,B,Ana Pandevska,female,25.11.1985  ,composer
-voting-detailsgrand-final,2018,Lisbon,Fyr-macedonia,C,Miodrag Vrchakovski,male,27.11.1946  ,songwriter and a radio journalist
-voting-detailsgrand-final,2018,Lisbon,Fyr-macedonia,D,Kristijan Gabroski,male,15.04.1967  ,composer and music producer
-voting-detailsgrand-final,2018,Lisbon,Fyr-macedonia,E,Stefanija Leshkova - Zelenkovska,female,25.02.1964  ,Musicologyst and music journalist
+voting-detailsgrand-final,2018,Lisbon,Fyr-macedonia,B,Ana Pandevska,female,25.11.1985  ,Composer
+voting-detailsgrand-final,2018,Lisbon,Fyr-macedonia,C,Miodrag Vrchakovski,male,27.11.1946  ,songwriter and a radio Journalist
+voting-detailsgrand-final,2018,Lisbon,Fyr-macedonia,D,Kristijan Gabroski,male,15.04.1967  ,Composer and Music Producer
+voting-detailsgrand-final,2018,Lisbon,Fyr-macedonia,E,Stefanija Leshkova - Zelenkovska,female,25.02.1964  ,Musicologyst and music Journalist
 voting-detailsgrand-final,2018,Lisbon,Norway,A,Spira,male,9.06.1987  ,Rapper/Artist
 voting-detailsgrand-final,2018,Lisbon,Norway,B,Andre Bravo,male,20.12.1981  ,dj
 voting-detailsgrand-final,2018,Lisbon,Norway,C,Ingeborg Walther,female,26.09.1999  ,Artist
 voting-detailsgrand-final,2018,Lisbon,Norway,D,Hanne Haugsand,female,14.10.1975  ,Artist
 voting-detailsgrand-final,2018,Lisbon,Norway,E,Guri Schanke,female,14.12.1961  ,Artist
 voting-detailsgrand-final,2018,Lisbon,Poland,A,Dorota Szpetkowska,female,21.02.1959  ,TV director
-voting-detailsgrand-final,2018,Lisbon,Poland,B,Michal Szpak,male,26.11.1990  ,singer
-voting-detailsgrand-final,2018,Lisbon,Poland,C,Natalia Szroeder,female,20.04.1995  ,singer
-voting-detailsgrand-final,2018,Lisbon,Poland,D,Slawomir Uniatowski,male,11.05.1985  ,singer
-voting-detailsgrand-final,2018,Lisbon,Portugal,B,Daniela Onis,female,4.03.1984  ,composer and singer
-voting-detailsgrand-final,2018,Lisbon,Portugal,C,Anabela,female,22.09.1976  ,singer and actress
-voting-detailsgrand-final,2018,Lisbon,Portugal,D,Benjamim,male,24.05.1986  ,composer and producer
-voting-detailsgrand-final,2018,Lisbon,Portugal,E,Peu Madureira,male,3.07.1978  ,singer
-voting-detailsgrand-final,2018,Lisbon,Romania,A,Nicu Patoi,male,12.02.1971  ,musician
+voting-detailsgrand-final,2018,Lisbon,Poland,B,Michal Szpak,male,26.11.1990  ,Singer
+voting-detailsgrand-final,2018,Lisbon,Poland,C,Natalia Szroeder,female,20.04.1995  ,Singer
+voting-detailsgrand-final,2018,Lisbon,Poland,D,Slawomir Uniatowski,male,11.05.1985  ,Singer
+voting-detailsgrand-final,2018,Lisbon,Portugal,B,Daniela Onis,female,4.03.1984  ,Composer and Singer
+voting-detailsgrand-final,2018,Lisbon,Portugal,C,Anabela,female,22.09.1976  ,Singer and actress
+voting-detailsgrand-final,2018,Lisbon,Portugal,D,Benjamim,male,24.05.1986  ,Composer and producer
+voting-detailsgrand-final,2018,Lisbon,Portugal,E,Peu Madureira,male,3.07.1978  ,Singer
+voting-detailsgrand-final,2018,Lisbon,Romania,A,Nicu Patoi,male,12.02.1971  ,Musician
 voting-detailsgrand-final,2018,Lisbon,Romania,B,Anca Lupes,female,17.02.1968  ,Music Business Consultant
 voting-detailsgrand-final,2018,Lisbon,Romania,C,Sanda Cepraga,female,22.11.1951  ,Sound Director
-voting-detailsgrand-final,2018,Lisbon,Romania,D,Gabi Cotabita,male,1.11.1955  ,musician
+voting-detailsgrand-final,2018,Lisbon,Romania,D,Gabi Cotabita,male,1.11.1955  ,Musician
 voting-detailsgrand-final,2018,Lisbon,Romania,E,Al Mike,male,9.11.1965  ,Composer & Music Producer
 voting-detailsgrand-final,2018,Lisbon,Russia,B,Alexandra Vorobyova,female,24.12.1989  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Russia,D,Sergei Mandrik,male,3.09.1973  ,Choreographer
@@ -1243,21 +1243,21 @@ voting-detailsgrand-final,2018,Lisbon,San-marino,A,Augusto Ciavatta,male,4.12.19
 voting-detailsgrand-final,2018,Lisbon,San-marino,C,Veronica Conti,female,14.09.1998  ,Cello player
 voting-detailsgrand-final,2018,Lisbon,San-marino,D,Lo Strego,male,12.06.1989  ,Singer and songwriter
 voting-detailsgrand-final,2018,Lisbon,San-marino,E,Claudio Podeschi,male,24.07.1988  ,Trombonist
-voting-detailsgrand-final,2018,Lisbon,Serbia,A,Bojana Stamenov,female,24.06.1986  ,singer
-voting-detailsgrand-final,2018,Lisbon,Serbia,B,Dejan Cukic,male,4.11.1959  ,singer and composer
+voting-detailsgrand-final,2018,Lisbon,Serbia,A,Bojana Stamenov,female,24.06.1986  ,Singer
+voting-detailsgrand-final,2018,Lisbon,Serbia,B,Dejan Cukic,male,4.11.1959  ,Singer and Composer
 voting-detailsgrand-final,2018,Lisbon,Serbia,C,Tijana Miloï¿½evic,female,1.03.1978  ,concertmaster - Belgrade Philharmonic Orchestra.
-voting-detailsgrand-final,2018,Lisbon,Serbia,D,Rade Radivojevic,male,27.04.1949  ,composer
+voting-detailsgrand-final,2018,Lisbon,Serbia,D,Rade Radivojevic,male,27.04.1949  ,Composer
 voting-detailsgrand-final,2018,Lisbon,Slovenia,C,Nikola Sekulovic,male,25.12.1966  ,Musician
 voting-detailsgrand-final,2018,Lisbon,Slovenia,E,Alenka Godec,female,5.11.1964  ,Singer
-voting-detailsgrand-final,2018,Lisbon,Spain,B,Brisa Fenoy,female,20.02.1991  ,singer/composer/musical producer
+voting-detailsgrand-final,2018,Lisbon,Spain,B,Brisa Fenoy,female,20.02.1991  ,Singer/Composer/musical producer
 voting-detailsgrand-final,2018,Lisbon,Spain,D,Roi,male,30.09.1993  ,Singer
-voting-detailsgrand-final,2018,Lisbon,Spain,E,Conchita,female,3.03.1981  ,Singer/ composer/ song writer
+voting-detailsgrand-final,2018,Lisbon,Spain,E,Conchita,female,3.03.1981  ,Singer/ Composer/ song writer
 voting-detailsgrand-final,2018,Lisbon,Sweden,A,Mariette,female,23.01.1983  ,Artist
 voting-detailsgrand-final,2018,Lisbon,Sweden,B,Josefin,female,27.08.1974  ,Singer and songwriter
 voting-detailsgrand-final,2018,Lisbon,Sweden,D,K-one,male,30.07.1979  ,Composer and Producer
 voting-detailsgrand-final,2018,Lisbon,Switzerland,B,Alizï¿½ Oswald,female,10.05.1988  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Switzerland,C,Michael Kinzer,male,29.06.1972  ,Boardmember Swiss Music Export and Fondation pour la chanson et les musiques actuelles
-voting-detailsgrand-final,2018,Lisbon,Switzerland,D,Eva Bellomo,female,22.12.1960  ,singer
+voting-detailsgrand-final,2018,Lisbon,Switzerland,D,Eva Bellomo,female,22.12.1960  ,Singer
 voting-detailsgrand-final,2018,Lisbon,Switzerland,E,Nickless,male,5.10.1995  ,Singer
 voting-detailsgrand-final,2018,Lisbon,The-netherlands,B,Robert Ester,male,15.10.1971  ,Music & Content Director
 voting-detailsgrand-final,2018,Lisbon,The-netherlands,C,Sharon Janny Den Adel,female,12.07.1974  ,Singer
