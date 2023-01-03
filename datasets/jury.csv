@@ -1,4 +1,4 @@
-"vote","year","city","jury-country","name","gender","birth","profession"
+"vote","year","city","jury-country","id","name","gender","birth","profession"
 voting-detailssecond-semi-final,2016,Stockholm,Poland,B,Monika Kuszynska,female,14.01.1980  ,artist - singer
 voting-detailsgrand-final,2016,Stockholm,Poland,B,Monika Kuszynska,female,14.01.1980  ,artist - singer
 voting-detailsfirst-semi-final,2016,Stockholm,Estonia,C,Maiken,female,4.03.1977  ,professional singer
